@@ -10,8 +10,7 @@ Before, I completed my Pure Mathematics MSc at Imperial College London under the
 Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
 # Address
-Department of Mathematics
-
+Department of Mathematics /
 University of Luxembourg
 
 Campus Belval - Maison du Nombre
