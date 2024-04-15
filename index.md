@@ -1,4 +1,11 @@
 ---
-# Home
+title: "Home"
+permalink: "/home/"
+layout: page
 ---
-I'm a Phd Student
+
+I'm a last year PhD student
+
+![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true)
+
+
