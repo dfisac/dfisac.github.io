@@ -8,7 +8,7 @@ layout: page
 
 ## Interests
 
-My main focus is on surfaces.
+My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic points of view. More specifically, growth invariants as the volume entropy, curve counting problems, and rigidity of their spectra.
 
 ## (Pre)Prints
 
@@ -17,8 +17,8 @@ My main focus is on surfaces.
 
 ## Talks
 
- - 2nd International AMS-UMI Joint Meeting
- - SMaRT
- - Seminari UAB
- - Les Diablerets
- - Leon
+ - 2nd International AMS-UMI Joint Meeting, Jul 2024, Palermo.
+ - Surfaces, Manifolds and Related Topics (SMaRT), Mar 2024, Luxembourg.
+ - Geometry Seminar UAB, Jan 2024, Barcelona.
+ - Geometry, Probability and their Synergies, Mar 2023, Les Diablerets, Switzerland.
+ - VI Congreso de Jóvenes Investigadores de la RSME, Feb 2023, León, Spain.
