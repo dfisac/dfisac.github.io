@@ -10,8 +10,8 @@ layout: page
 
 ## (Pre)Prints
 
- - Curve counting (with Mingkun Liu)
- - Basmajian's inequality (with Florent Balacheff)
+ - Word-length curve counting on the once-punctured torus (with Mingkun Liu),
+ - Basmajian's inequality (with Florent Balacheff).
 
 ## Talks
 
