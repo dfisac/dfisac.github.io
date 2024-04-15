@@ -17,6 +17,7 @@ My main focus is on surfaces.
 
 ## Talks
 
+ - 2nd International AMS-UMI Joint Meeting
  - SMaRT
  - Seminari UAB
  - Les Diablerets
