@@ -11,7 +11,7 @@ layout: page
 ## (Pre)Prints
 
  - Word-length curve counting on the once-punctured torus (with Mingkun Liu),
- - Basmajian's inequality (with - [Florent Balacheff]("https://mat.uab.cat/~fbalacheff/"})).
+ - Basmajian's inequality (with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff </a>).
 
 ## Talks
 
