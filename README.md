@@ -16,7 +16,8 @@ My main focus is on surfaces.
  - Basmajian's inequality (with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>).
 
 ## Talks
-SMaRT
-Seminari UAB
-Les Diablerets
-Leon
+
+ - SMaRT
+ - Seminari UAB
+ - Les Diablerets
+ - Leon
