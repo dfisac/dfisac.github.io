@@ -9,6 +9,8 @@ I am a last-year PhD student under the co-supervision of <a href="https://mat.ua
 Before, I completed my Pure Mathematics MSc at Imperial College London under the supervision of Marie-Amélie Lawn.
 Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
+![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true)
+
 # Address
 Department of Mathematics
 
@@ -25,6 +27,5 @@ Luxembourg
 # E-mail
 david dot fisac at uni dot lu
 
-![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true)
 
 
