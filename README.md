@@ -13,7 +13,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 ## (Pre)Prints
 
  - Word-length curve counting on the once-punctured torus (with <a href="https://math.uni.lu/liu/"> Mingkun Liu</a>), preprint: <a href="https://arxiv.org/"> arXiv</a>.
- - Basmajian's inequality (with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>), preprint: <a href="https://arxiv.org/abs/2311.03182"> arXiv</a>.
+ - A Basmajian-type inequality for Riemannian surfaces (with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>), preprint: <a href="https://arxiv.org/abs/2311.03182"> arXiv</a>.
 
 ## Talks
 
