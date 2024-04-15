@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-![screenshot](https://github.com/dfisac/dfisac.github.io/blob/master/touring.jpg)
+![guix](https://github.com/dfisac/dfisac.github.io/blob/master/touring.jpg)
 
 ## Interests
 
