@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "david.fisac@uni.lu"}
+  - {title: Mail, icon: envelope, url: "mailto:david.fisac@uni.lu"}
  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
