@@ -17,7 +17,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 
 ## Talks
 
- - 2nd International AMS-UMI Joint Meeting, Jul 2024, Palermo.
+ - 2nd International AMS-UMI Joint Meeting, Jul 2024, Palermo, Sicily.
  - Surfaces, Manifolds and Related Topics (SMaRT), Mar 2024, Luxembourg.
  - Geometry Seminar UAB, Jan 2024, Barcelona.
  - Geometry, Probability and their Synergies, Mar 2023, Les Diablerets, Switzerland.
