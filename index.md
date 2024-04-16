@@ -12,9 +12,8 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 ![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true)
 
 # Address
-Department of Mathematics
-
-University of Luxembourg
+  Department of Mathematics
+  University of Luxembourg
 
 Campus Belval - Maison du Nombre
 
