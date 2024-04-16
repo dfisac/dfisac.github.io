@@ -13,14 +13,10 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
 # Address
 Department of Mathematics  
-University of Luxembourg
-
-Campus Belval - Maison du Nombre
-
-6, avenue de la Fonte
-
-L-4364 Esch-sur-Alzette
-
+University of Luxembourg  
+Campus Belval - Maison du Nombre  
+6, avenue de la Fonte  
+L-4364 Esch-sur-Alzette  
 Luxembourg
 
 # E-mail
