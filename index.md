@@ -55,24 +55,23 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
   ];
   let currentIndex = 0;
 
-  function updateFootnote() {
+  function updateSlider() {
+    sliderContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
     footnote.textContent = footnotes[currentIndex];
   }
 
   document.getElementById('prev-btn').addEventListener('click', () => {
     currentIndex = (currentIndex - 1 + totalImages) % totalImages;
-    sliderContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
-    updateFootnote();
+    updateSlider();
   });
 
   document.getElementById('next-btn').addEventListener('click', () => {
     currentIndex = (currentIndex + 1) % totalImages;
-    sliderContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
-    updateFootnote();
+    updateSlider();
   });
 
-  // Initialize the footnote on page load
-  updateFootnote();
+  // Initialize the slider and footnote on page load
+  updateSlider();
 </script>
 
 
