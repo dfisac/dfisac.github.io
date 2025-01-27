@@ -12,7 +12,32 @@ Before, I completed my Pure Mathematics MSc at Imperial College London under the
 
 Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
-![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true)
+<div id="image-slider" style="max-width: 600px; position: relative; overflow: hidden; margin: 20px auto;">
+  <div id="slider-container" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Image 1" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Image 2" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Image 3" style="width: 100%; flex-shrink: 0;">
+  </div>
+  <button id="prev-btn" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❮</button>
+  <button id="next-btn" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❯</button>
+</div>
+
+<script>
+  const sliderContainer = document.getElementById('slider-container');
+  const images = sliderContainer.children;
+  const totalImages = images.length;
+  let currentIndex = 0;
+
+  document.getElementById('prev-btn').addEventListener('click', () => {
+    currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+    sliderContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+  });
+
+  document.getElementById('next-btn').addEventListener('click', () => {
+    currentIndex = (currentIndex + 1) % totalImages;
+    sliderContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+  });
+</script>
 
 # Address
 Despatx C1/-162 <br />
@@ -23,6 +48,3 @@ Universitat Autònoma de Barcelona <br />
 
 # E-mail
 david dot fisac at uab dot cat
-
-
-
