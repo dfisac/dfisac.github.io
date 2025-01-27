@@ -15,6 +15,7 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 <script type="module">
 <scrolly-photos>
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Mattresses lay on top of each other in a makeshift playground">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Mattresses lay on top of each other in a makeshift playground">
 </scrolly-photos>
 </script>
 
