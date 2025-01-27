@@ -11,7 +11,7 @@ layout: page
 My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic points of view. More specifically, growth invariants as the volume entropy, curve counting problems, and rigidity of their spectra.
 
 ## (Pre)Prints
-
+ - Markov's Conjecture on integral necklaces, preprint: arXiv.
  - Word-length curve counting on the once-punctured torus (with <a href="https://math.uni.lu/liu/"> Mingkun Liu</a>), preprint: <a href="https://arxiv.org/abs/2404.09372"> arXiv</a>.
  - A Basmajian-type inequality for Riemannian surfaces (with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>), preprint: <a href="https://arxiv.org/abs/2311.03182"> arXiv</a>.
 
