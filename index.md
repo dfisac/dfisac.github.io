@@ -20,6 +20,7 @@ Some of the things that help my existence are in the following pictures.
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix2.jpg?raw=true" alt="Image 2" style="width: 100%; flex-shrink: 0;">
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix3.jpg?raw=true" alt="Image 3" style="width: 100%; flex-shrink: 0;">
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix4.jpg?raw=true" alt="Image 4" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix5.jpg?raw=true" alt="Image 5" style="width: 100%; flex-shrink: 0;">
   </div>
   <button id="prev-btn" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❮</button>
   <button id="next-btn" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❯</button>
@@ -38,7 +39,8 @@ Some of the things that help my existence are in the following pictures.
     "This is a boulder problem I love called 'There is no spoon' in Ticino, Switzerland.",
     "Souvenir of nice times of collaboration with Mingkun Liu.",
     "Some nice vegetables we planted in my hometown's community garden on a sunny winter.",
-    "Food and friends."
+    "Food and friends.",
+    "This place."
   ];
   let currentIndex = 0;
 
