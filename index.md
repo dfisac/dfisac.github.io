@@ -12,6 +12,8 @@ Before, I completed my Pure Mathematics MSc at Imperial College London under the
 
 Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
+Some of the things that help my existence are in the following pictures.
+
 <div id="image-slider" style="max-width: 1200px; position: relative; overflow: hidden; margin: 20px auto;">
   <div id="slider-container" style="display: flex; transition: transform 0.5s ease;">
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix1.jpg?raw=true" alt="Image 1" style="width: 100%; flex-shrink: 0;">
