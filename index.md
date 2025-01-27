@@ -14,9 +14,9 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
 <div id="image-slider" style="max-width: 1200px; position: relative; overflow: hidden; margin: 20px auto;">
   <div id="slider-container" style="display: flex; transition: transform 0.5s ease;">
-    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Image 1" style="width: 100%; flex-shrink: 0;">
-    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Image 2" style="width: 100%; flex-shrink: 0;">
-    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true" alt="Image 3" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix1.jpg?raw=true" alt="Image 1" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix2.jpg?raw=true" alt="Image 2" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix1.jpg?raw=true" alt="Image 3" style="width: 100%; flex-shrink: 0;">
   </div>
   <button id="prev-btn" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❮</button>
   <button id="next-btn" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❯</button>
@@ -33,7 +33,7 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
   const totalImages = images.length;
   const footnotes = [
     "This is a boulder problem I love called 'There is no spoon' in Ticino, Switzerland.",
-    "Footnote for Image 2",
+    "Souvenir of nice times of collaboration with Mingkun Liu",
     "Footnote for Image 3"
   ];
   let currentIndex = 0;
