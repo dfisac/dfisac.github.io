@@ -15,14 +15,10 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 ![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/guix.jpg?raw=true)
 
 # Address
-Despatx C1/-162
-
-Departament de Matemàtiques
-
-Facultat de Ciències
-
-Universitat Autònoma de Barcelona
-
+Despatx C1/-162 <br />
+Departament de Matemàtiques <br />
+Facultat de Ciències <br />
+Universitat Autònoma de Barcelona <br />
 08193 Bellaterra (Barcelona), Spain
 
 # E-mail
