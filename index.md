@@ -39,6 +39,43 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
   });
 </script>
 
+<div id="image-footnote" style="text-align: center; margin-top: 10px; font-style: italic;">
+  Footnote for Image 1
+</div>
+
+<script>
+  const sliderContainer = document.getElementById('slider-container');
+  const footnote = document.getElementById('image-footnote');
+  const images = sliderContainer.children;
+  const totalImages = images.length;
+  const footnotes = [
+    "Footnote for Image 1",
+    "Footnote for Image 2",
+    "Footnote for Image 3"
+  ];
+  let currentIndex = 0;
+
+  function updateFootnote() {
+    footnote.textContent = footnotes[currentIndex];
+  }
+
+  document.getElementById('prev-btn').addEventListener('click', () => {
+    currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+    sliderContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+    updateFootnote();
+  });
+
+  document.getElementById('next-btn').addEventListener('click', () => {
+    currentIndex = (currentIndex + 1) % totalImages;
+    sliderContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+    updateFootnote();
+  });
+
+  // Initialize the footnote on page load
+  updateFootnote();
+</script>
+
+
 # Address
 Despatx C1/-162 <br />
 Departament de Matemàtiques <br />
