@@ -32,7 +32,7 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
   const images = sliderContainer.children;
   const totalImages = images.length;
   const footnotes = [
-    "Footnote for Image 1",
+    "This is a boulder problem I love called 'There is no spoon' in Ticino, Switzerland.",
     "Footnote for Image 2",
     "Footnote for Image 3"
   ];
