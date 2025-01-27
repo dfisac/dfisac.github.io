@@ -16,9 +16,13 @@ Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
 # Address
 Despatx C1/-162
+
 Departament de Matemàtiques
+
 Facultat de Ciències
+
 Universitat Autònoma de Barcelona
+
 08193 Bellaterra (Barcelona), Spain
 
 # E-mail
