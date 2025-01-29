@@ -17,6 +17,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 
 ## Talks
 
+ - Perspectives on Markov Numbers (lightning), Jan 2025, BIRS, Banff, Canada. 
  - Colloque de Géométrie, Nov 2024, Université Paris-Est Créteil, France.
  - 2nd International AMS-UMI Joint Meeting, Jul 2024, Palermo, Sicily.
  - Surfaces, Manifolds and Related Topics (SMaRT), Mar 2024, Luxembourg.
