@@ -15,8 +15,6 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
  1. 
  Markov's Conjecture on integral necklaces, preprint: <a href="https://arxiv.org/abs/2501.15550"> arXiv</a>.  
  
- ---
- 
  1. Word-length curve counting on the once-punctured torus (with <a href="https://math.uni.lu/liu/"> Mingkun Liu</a>), preprint: <a href="https://arxiv.org/abs/2404.09372"> arXiv</a>.  ---
  
  1. A Basmajian-type inequality for Riemannian surfaces,\
