@@ -12,7 +12,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 
 # (Pre)Publications
 
- # [3] 
+ [3] 
  Markov's Conjecture on integral necklaces, preprint: <a href="https://arxiv.org/abs/2501.15550"> arXiv</a>.  
  
  ---
