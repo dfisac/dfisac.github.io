@@ -15,7 +15,6 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 
  **[3].**&emsp; Markov's Conjecture on integral necklaces,\
    &ensp;&emsp;&emsp; *submitted*, e-print: <a href="https://arxiv.org/abs/2501.15550"> arXiv:2501.15550</a>.
-
    ---
 
  **[2].**&emsp; Word-length curve counting on the once-punctured torus,\
