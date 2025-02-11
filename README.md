@@ -19,7 +19,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
  1. A Basmajian-type inequality for Riemannian surfaces,\
     with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>, 
     accepted for publication in J. Topol. Anal. (2025). <a href="https://arxiv.org/abs/2311.03182"> PDF</a>
-
+{: reversed="reversed"}
 ## Talks
 
  - Perspectives on Markov Numbers (lightning), Jan 2025, BIRS, Banff, Canada. 
