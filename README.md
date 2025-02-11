@@ -13,10 +13,10 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 ## (Pre)Publications
 
  **[3].**&emsp; Markov's Conjecture on integral necklaces,\
-   &emsp;&emsp;&emsp;&emsp; <a href="https://arxiv.org/abs/2501.15550"> arXiv version</a>.  
+   *submited*- &emsp;&emsp;&emsp;&emsp; <a href="https://arxiv.org/abs/2501.15550"> arXiv version</a>.  
  
  **[2].**&emsp; Word-length curve counting on the once-punctured torus,\
-   &emsp;&emsp;&emsp;&emsp; (with <a href="https://math.uni.lu/liu/"> Mingkun Liu</a>), <a href="https://arxiv.org/abs/2404.09372"> arXiv version</a>.
+   &emsp;&emsp;&emsp;&emsp; (with <a href="https://math.uni.lu/liu/"> Mingkun Liu</a>), *submited*. <a href="https://arxiv.org/abs/2404.09372"> arXiv version</a>.
   
  **[1].**&emsp; A Basmajian-type inequality for Riemannian surfaces,\
    &emsp;&emsp;&emsp;&emsp; with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>, 
