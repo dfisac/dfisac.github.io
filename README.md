@@ -20,7 +20,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 
  **[1].**&emsp; A Basmajian-type inequality for Riemannian surfaces,\
    &ensp;&emsp;&emsp; with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>, 
-    *J. Topol. Anal. (2025) DOI:10.1142/S1793525325500104*, e-print: <a href="https://arxiv.org/abs/2311.03182"> arXiv:2311.03182</a>.
+    *J. Topol. Anal. (2025) (online ready)*, e-print: <a href="https://arxiv.org/abs/2311.03182"> arXiv:2311.03182</a>.
 <br>
 
 # Talks
