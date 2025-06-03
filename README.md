@@ -26,7 +26,10 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 <video width="640" height="360" controls>
   <source src="https://github.com/dfisac/dfisac.github.io/raw/refs/heads/master/assets/toranim.mp4" type="video/mp4">
 </video>
-   
+
+
+https://github.com/user-attachments/assets/7ea45c59-3cbb-4884-abad-905d1916d36f
+
 # Invited Talks
 
  - Geometry seminar at MPI MiS, June 2025, Leipzig, Germany.
