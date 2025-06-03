@@ -23,6 +23,10 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
     *J. Topol. Anal. (2025) (online ready)*, e-print: <a href="https://arxiv.org/abs/2311.03182"> arXiv:2311.03182</a>.
 <br>
 
+<video width="320" height="240" controls loop "" muted="" autoplay="">
+   <source src=https://github.com/dfisac/dfisac.github.io/raw/refs/heads/master/toranim.mp4">
+</video>
+   
 # Invited Talks
 
  - Geometry seminar at MPI MiS, June 2025, Leipzig, Germany.
