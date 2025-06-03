@@ -24,7 +24,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 <br>
 
 <video width="640" height="360" controls>
-  <source src="assets/toranim.mp4" type="video/mp4">
+  <source src="https://github.com/dfisac/dfisac.github.io/raw/refs/heads/master/assets/toranim.mp4" type="video/mp4">
 </video>
    
 # Invited Talks
