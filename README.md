@@ -23,8 +23,9 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
     *J. Topol. Anal. (2025) (online ready)*, e-print: <a href="https://arxiv.org/abs/2311.03182"> arXiv:2311.03182</a>.
 <br>
 
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ee7b1172-597a-4a3c-8407-e0d4489e48ef" width="600"/>
+<img src="https://github.com/user-attachments/assets/11e3039c-c246-429c-bb15-6558b5b84ae5" width="600"/>
 </p>
 
 # Invited Talks
