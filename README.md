@@ -25,7 +25,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/632a69ba-a63e-44f1-abcd-e4d8c53ded22" width="600"/>
+<img src="https://github.com/user-attachments/assets/9ae92bc3-dde9-4d58-95be-23ae948d99b8" width="600"/>
 </p>
 
 # Invited Talks
