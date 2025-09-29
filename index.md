@@ -65,11 +65,10 @@ Some of the things that help my existence are in the following pictures.
 
 
 # Address
-Despatx C1/-162 <br />
-Departament de Matemàtiques <br />
-Facultat de Ciències <br />
-Universitat Autònoma de Barcelona <br />
-08193 Bellaterra (Barcelona), Spain
+Laboratoire d'Analyse et de Mathématiques Appliquées, Université Paris-Est Créteil
+Office P2 230
+61, avenue Général de Gaulle
+94010 Créteil, France
 
 # E-mail
-david dot fisac at uab dot cat
+david.fisac(at)uab.cat
