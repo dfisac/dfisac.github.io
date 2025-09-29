@@ -4,9 +4,9 @@ permalink: "/"
 layout: page
 ---
 
-I am a postdoc at Universitat Autònoma de Barcelona with the following <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2"> group</a>.
+I am a postdoc at Laboratoire d’Analyse et de Mathématiques Appliquées <a href="https://lama-umr8050.fr/">(LAMA)</a>. Before, I was a postdoc at Universitat Autònoma de Barcelona with the following <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2"> group</a>.
 
-I recently obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://math.uni.lu/parlier/"> Hugo Parlier</a> at the University of Luxembourg.
+In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://math.uni.lu/parlier/"> Hugo Parlier</a> at the University of Luxembourg.
 
 Before, I completed my Pure Mathematics MSc at Imperial College London under the supervision of Marie-Amélie Lawn.
 
