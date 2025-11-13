@@ -29,8 +29,8 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 </p>
 
 # Invited Talks
-
- - Geometry seminar at MPI MiS, June 2025, Leipzig, Germany.
+ - Geometry and Topology seminar, Dec 2025, Luxembourg.
+ - Geometry seminar at MPI MiS, Jun 2025, Leipzig, Germany.
  - Mittagsseminar CADMO at ETHZ, May 2025, Zurich, Switzerland.
  - Perspectives on Markov Numbers (lightning), Jan 2025, BIRS, Banff, Canada. 
  - Colloque de Géométrie, Nov 2024, Université Paris-Est Créteil, France.
