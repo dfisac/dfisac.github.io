@@ -13,7 +13,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 # (Pre)Publications
 
  **[4].**&emsp; Isospectrality for infinite-type hyperbolic surfaces with discrete length spectrum,\
-   &ensp;&emsp;&emsp; with <a href="https://fanoni.perso.math.cnrs.fr/"> Federica Fanoni</a>, e-print: <a href="https://arxiv.org"> arXiv:</a>.
+   &ensp;&emsp;&emsp; with <a href="https://fanoni.perso.math.cnrs.fr/"> Federica Fanoni</a>, e-print: <a href="https://arxiv.org/pdf/2602.19670"> arXiv:2602.19670</a>.
 
  **[3].**&emsp; Markov's Conjecture on integral necklaces,\
    &ensp;&emsp;&emsp; *Bull. London Math. Soc., 57(12): 4122-4131. (2025)*, e-print: <a href="https://arxiv.org/abs/2501.15550"> arXiv:2501.15550</a>.
