@@ -1,5 +1,5 @@
 ---
-title: "David Fisac's Homepage"
+title: "About me"
 permalink: "/"
 layout: page
 ---
