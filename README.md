@@ -32,18 +32,18 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 </p>
 
 # Invited Talks
- - Curve counting: what’s next? at the Hamilton Mathematics Institute, May 2025, Dublin, Ireland. 
- - Geometry and Spectra of Riemann Surfaces (lightning) at EPFL, Apr 2025, Lausanne, Switzerland.
- - Geometry and Topology seminar, Dec 2025, Luxembourg.
- - Geometry seminar at MPI MiS, Jun 2025, Leipzig, Germany.
- - Mittagsseminar CADMO at ETHZ, May 2025, Zurich, Switzerland.
- - Perspectives on Markov Numbers (lightning), Jan 2025, BIRS, Banff, Canada. 
- - Colloque de Géométrie, Nov 2024, Université Paris-Est Créteil, France.
- - 2nd International AMS-UMI Joint Meeting, Jul 2024, Palermo, Sicily.
- - Surfaces, Manifolds and Related Topics (SMaRT), Mar 2024, Luxembourg.
- - Geometry Seminar UAB, Jan 2024, Barcelona.
- - Geometry, Probability and their Synergies, Mar 2023, Les Diablerets, Switzerland.
- - VI Congreso de Jóvenes Investigadores de la RSME, Feb 2023, León, Spain.
+ - **Curve counting: what’s next?** at the Hamilton Mathematics Institute, May 2025, Dublin, Ireland. 
+ - **Geometry and Spectra of Riemann Surfaces** (lightning) at EPFL, Apr 2025, Lausanne, Switzerland.
+ - **Geometry and Topology seminar**, Dec 2025, Luxembourg.
+ - **Geometry seminar at MPI MiS**, Jun 2025, Leipzig, Germany.
+ - **Mittagsseminar CADMO** at ETHZ, May 2025, Zurich, Switzerland.
+ - **Perspectives on Markov Numbers** (lightning), Jan 2025, BIRS, Banff, Canada. 
+ - **Colloque de Géométri**e, Nov 2024, Université Paris-Est Créteil, France.
+ - **2nd International AMS-UMI Joint Meeting**, Jul 2024, Palermo, Sicily.
+ - **Surfaces, Manifolds and Related Topics (SMaRT)**, Mar 2024, Luxembourg.
+ - **Geometry Seminar UAB**, Jan 2024, Barcelona.
+ - **Geometry, Probability and their Synergies**, Mar 2023, Les Diablerets, Switzerland.
+ - **VI Congreso de Jóvenes Investigadores de la RSME**, Feb 2023, León, Spain.
 
 <br>
 
