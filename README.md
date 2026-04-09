@@ -32,6 +32,8 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 </p>
 
 # Invited Talks
+ - Curve counting: what’s next? at the Hamilton Mathematics Institute, May 2025, Dublin, Ireland. 
+ - Geometry and Spectra of Riemann Surfaces (lightning) at EPFL, Apr 2025, Lausanne, Switzerland.
  - Geometry and Topology seminar, Dec 2025, Luxembourg.
  - Geometry seminar at MPI MiS, Jun 2025, Leipzig, Germany.
  - Mittagsseminar CADMO at ETHZ, May 2025, Zurich, Switzerland.
