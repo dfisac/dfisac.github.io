@@ -13,7 +13,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 # (Pre)Publications
 
  **[4].**&emsp; Isospectrality for infinite-type hyperbolic surfaces with discrete length spectrum,\
-   &ensp;&emsp;&emsp; with <a href="https://fanoni.perso.math.cnrs.fr/" style="color: orange;> Federica Fanoni</a>, *submitted*,\
+   &ensp;&emsp;&emsp; with <a href="https://fanoni.perso.math.cnrs.fr/" style="color: orange;"> Federica Fanoni</a>, *submitted*,\
    &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/pdf/2602.19670"> arXiv:2602.19670</a>.
 
  **[3].**&emsp; Word-length curve counting on the once-punctured torus,\
