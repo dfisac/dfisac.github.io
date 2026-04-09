@@ -33,7 +33,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 <img src="https://github.com/user-attachments/assets/c263cf92-5020-48c2-855c-33519d592b36" width="600"/>
 </p>
 
-# Invited Talks
+# Invited Talks (where you could have or will find me)
  - (Future) **Curve counting: what’s next?** at the Hamilton Mathematics Institute, May 2026, Dublin, Ireland. 
  - (Future) **Geometry and Spectra of Riemann Surfaces** (lightning) at EPFL, Apr 2026, Lausanne, Switzerland.
  - **Geometry and Topology seminar**, Dec 2025, Luxembourg.
