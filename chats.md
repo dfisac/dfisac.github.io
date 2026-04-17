@@ -33,6 +33,7 @@ permalink: /chats/
 
     h1, h2, h3 {
       margin-top: 30px;
+      color: white;
     }
 
     table {
@@ -64,7 +65,7 @@ permalink: /chats/
 
 <body>
 
-<h1>Workshop on Chats</h1>
+<h1>Curves, Hyperbolicity, and Teichmüller Spaces (CHATS)</h1>
 
 <nav>
   <a href="#poster">Poster</a>
