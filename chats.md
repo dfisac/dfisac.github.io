@@ -99,17 +99,17 @@ permalink: /chats/
 
 <h2 id="abstracts">Titles and Abstracts</h2>
 
-<h3>Speaker 1 — <i>Title of Talk 1</i></h3>
-<p><b>Abstract:</b> Replace with actual abstract.</p>
+<h3>Speaker 1 — <i>TBA</i></h3>
+<p><b>Abstract:</b> TBA</p>
 
-<h3>Speaker 2 — <i>Title of Talk 2</i></h3>
-<p><b>Abstract:</b> Replace with actual abstract.</p>
+<h3>Speaker 2 — <i>TBA</i></h3>
+<p><b>Abstract:</b> TBA</p>
 
-<h3>Speaker 3 — <i>Title of Talk 3</i></h3>
-<p><b>Abstract:</b> Replace with actual abstract.</p>
+<h3>Speaker 3 — <i>TBA</i></h3>
+<p><b>Abstract:</b> TBA</p>
 
-<h3>Speaker 4 — <i>Title of Talk 4</i></h3>
-<p><b>Abstract:</b> Replace with actual abstract.</p>
+<h3>Speaker 4 — <i>TBA</i></h3>
+<p><b>Abstract:</b> TBA</p>
 
 
 <h2 id="registration">Registration</h2>
@@ -135,7 +135,7 @@ Loading…
 <li>Public transport: XXX</li>
 </ul>
 
-<p><b>Contact:</b> your.email@example.com</p>
+<p><b>Contact:</b> david.fisac-camara@cnrs.fr, yusen.long@u-pec.fr</p>
 
 </body>
 </html>
