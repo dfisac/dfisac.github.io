@@ -6,7 +6,7 @@ permalink: /chats/
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Curves, Hyperbolicity, and Teichmüller Spaces (CHATS)</title>
+  <title>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</title>
   <style>
     body {
       font-family: Arial, sans-serif;
