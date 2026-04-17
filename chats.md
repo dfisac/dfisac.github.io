@@ -12,7 +12,7 @@ permalink: /chats/
       font-family: Arial, sans-serif;
       margin: 40px;
       max-width: 900px;
-      background-color: #e6f2f8;  /* ← added */
+      background-color: #cfe3f1;  /* slightly darker */
     }
 
     nav {
@@ -24,7 +24,7 @@ permalink: /chats/
     nav a {
       margin-right: 15px;
       text-decoration: none;
-      color: #0073e6;
+      color: white;  /* changed */
     }
 
     nav a:hover {
@@ -33,6 +33,7 @@ permalink: /chats/
 
     h1, h2, h3 {
       margin-top: 30px;
+      color: white;  /* added */
     }
 
     table {
@@ -113,21 +114,14 @@ permalink: /chats/
 
 <h2 id="registration">Registration</h2>
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-  <label>Name:<br>
-    <input type="text" name="name" required>
-  </label>
-  <br><br>
-
-  <label>Email:<br>
-    <input type="email" name="email" required>
-  </label>
-  <br><br>
-
-  <button type="submit">Register</button>
-</form>
-
-<p><i>Replace YOUR_FORM_ID with your form endpoint.</i></p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Jc--PO1-Op-fkLNbXiZZNRPfIbpt04-aZA_skmBOX1q6OA/viewform?embedded=true"
+        width="100%"
+        height="800"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0">
+Loading…
+</iframe>
 
 
 <h2 id="practical">Practical Information</h2>
@@ -138,13 +132,7 @@ permalink: /chats/
 
 <p><b>Travel:</b></p>
 <ul>
-<li>Nearest airport: XXX</li>
 <li>Public transport: XXX</li>
-</ul>
-
-<p><b>Accommodation:</b></p>
-<ul>
-<li>Hotel suggestions nearby</li>
 </ul>
 
 <p><b>Contact:</b> your.email@example.com</p>
