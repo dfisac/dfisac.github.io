@@ -33,7 +33,6 @@ permalink: /chats/
 
     h1, h2, h3 {
       margin-top: 30px;
-      color: white;
     }
 
     table {
@@ -75,13 +74,11 @@ permalink: /chats/
   <a href="#practical">Practical Info</a>
 </nav>
 
----
 
 <h2 id="poster">Poster</h2>
 
 <img src="/assets/images/chats_ai.png" alt="Poster" style="max-height:90vh; width:auto; display:block; margin:auto;">
 
----
 
 <h2 id="schedule">Schedule</h2>
 
@@ -113,7 +110,6 @@ permalink: /chats/
 <h3>Speaker 4 — <i>Title of Talk 4</i></h3>
 <p><b>Abstract:</b> Replace with actual abstract.</p>
 
----
 
 <h2 id="registration">Registration</h2>
 
@@ -133,7 +129,6 @@ permalink: /chats/
 
 <p><i>Replace YOUR_FORM_ID with your form endpoint.</i></p>
 
----
 
 <h2 id="practical">Practical Information</h2>
 
