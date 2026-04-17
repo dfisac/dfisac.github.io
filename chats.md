@@ -12,6 +12,7 @@ permalink: /chats/
       font-family: Arial, sans-serif;
       margin: 40px;
       max-width: 900px;
+      background-color: #e6f2f8;  /* ← added */
     }
 
     nav {
