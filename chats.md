@@ -33,7 +33,7 @@ permalink: /chats/
       text-decoration: underline;
     }
 
-    h1, h2, h3 {
+    h1, h2 {
       margin-top: 30px;
       color: white;
       font-family: "Garamond", "Palatino Linotype", "Didot", "Times New Roman", serif;
@@ -109,8 +109,8 @@ permalink: /chats/
 <tr><td>10:00–11:00</td><td>M. T.</td><td>Title 1</td></tr>
 <tr><td>11:00–11:30</td><td>Coffee Break</td><td></td></tr>
 <tr><td>11:30–12:30</td><td>F.V</td><td>Title 2</td></tr>
-<tr><td>12:30–14:00</td><td>Lunch</td><td></td></tr>
-<tr><td>14:00–15:00</td><td>N.Q.</td><td>Talk 3</td></tr>
+<tr><td>12:30–14:00</td><td>Lunch</td><td>Where</td></tr>
+<tr><td>14:00–15:00</td><td>N.Q.</td><td>Title 3</td></tr>
 <tr><td>15:00–15:30</td><td>Coffee Break</td><td> </td></tr>
 <tr><td>15:30–16:30</td><td>M.B.</td><td>Title 4</td></tr>
 </table>
