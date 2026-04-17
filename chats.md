@@ -78,7 +78,7 @@ permalink: /chats/
 
 <h2 id="poster">Poster</h2>
 
-<img src="/assets/images/chats_ai.png" alt="Poster" style="max-width:100%;">
+<img src="/assets/chats_ai.png" alt="Poster" style="max-width:100%;">
 
 ---
 
