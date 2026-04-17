@@ -3,11 +3,10 @@ layout: none
 permalink: /chats/
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Workshop on Chats</title>
+  <title>Curves, Hyperbolicity, and Teichmüller Spaces (CHATS)</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -78,7 +77,7 @@ permalink: /chats/
 
 <h2 id="poster">Poster</h2>
 
-<img src="/assets/images/poster.png" alt="Poster" style="max-width:100%;">
+<img src="/assets/images/chats_ai.png" alt="Poster" style="max-width:100%;">
 
 ---
 
@@ -86,14 +85,14 @@ permalink: /chats/
 
 <table>
 <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
-<tr><td>09:00–09:30</td><td>Opening</td><td>Welcome</td></tr>
-<tr><td>09:30–10:30</td><td>Speaker 1</td><td>Talk 1</td></tr>
-<tr><td>10:30–11:00</td><td>Coffee Break</td><td></td></tr>
-<tr><td>11:00–12:00</td><td>Speaker 2</td><td>Talk 2</td></tr>
-<tr><td>12:00–14:00</td><td>Lunch</td><td></td></tr>
-<tr><td>14:00–15:00</td><td>Speaker 3</td><td>Talk 3</td></tr>
-<tr><td>15:00–16:00</td><td>Speaker 4</td><td>Talk 4</td></tr>
-<tr><td>16:00–16:30</td><td>Closing</td><td>Discussion</td></tr>
+<tr><td>09:30–10:00</td><td>Welcome + Coffee</td><td></td></tr>
+<tr><td>10:00–11:00</td><td>M. T.</td><td>Title 1</td></tr>
+<tr><td>11:00–11:30</td><td>Coffee Break</td><td></td></tr>
+<tr><td>11:30–12:30</td><td>F.V</td><td>Title 2</td></tr>
+<tr><td>12:30–14:00</td><td>Lunch</td><td></td></tr>
+<tr><td>14:00–15:00</td><td>N.Q.</td><td>Talk 3</td></tr>
+<tr><td>15:00–15:30</td><td>Coffee Break</td><td> </td></tr>
+<tr><td>15:30–16:30</td><td>M.B.</td><td>Title 4</td></tr>
 </table>
 
 ---
