@@ -15,12 +15,15 @@ permalink: /chats/
       background-color: #cfe3f1;  /* slightly darker */
     }
   .subtitle {
-    font-family: "Snell Roundhand", "Zapfino", "Apple Chancery", "Brush Script MT", cursive;
-    color: black;
-    font-size: 1.3em;
-    margin-top: -10px;
-    margin-bottom: 20px;
-    text-align: center;
+  font-family: "Zapfino", "URW Chancery L", "Apple Chancery", "Snell Roundhand",
+               "Great Vibes", cursive;
+  color: black;
+  font-size: 1.35em;
+  margin-top: -12px;
+  margin-bottom: 20px;
+  text-align: left;
+  letter-spacing: 0.5px;
+  font-style: normal;
   }
     nav {
       margin-bottom: 30px;
