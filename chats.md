@@ -49,7 +49,7 @@ permalink: /chats/
     }
 
     h2 {
-      font-size: 2em;
+      font-size: 2.3em;
     }
 
     h3 {
