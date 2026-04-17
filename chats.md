@@ -1,110 +1,157 @@
 ---
-layout: default
-title: Workshop - Chats
+layout: none
 permalink: /chats/
 ---
 
-# Workshop on Chats
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Workshop on Chats</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      max-width: 900px;
+    }
+
+    nav {
+      margin-bottom: 30px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 10px;
+    }
+
+    nav a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #0073e6;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    h1, h2, h3 {
+      margin-top: 30px;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+
+    form input, form button {
+      padding: 8px;
+      margin-top: 5px;
+      width: 300px;
+    }
+
+    form button {
+      width: auto;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Workshop on Chats</h1>
+
+<nav>
+  <a href="#poster">Poster</a>
+  <a href="#schedule">Schedule</a>
+  <a href="#abstracts">Titles & Abstracts</a>
+  <a href="#registration">Registration</a>
+  <a href="#practical">Practical Info</a>
+</nav>
 
 ---
 
-## 📌 Navigation
-- [Poster](#poster)
-- [Schedule](#schedule)
-- [Titles and Abstracts](#titles-and-abstracts)
-- [Registration](#registration)
-- [Practical Information](#practical-information)
+<h2 id="poster">Poster</h2>
+
+<img src="/assets/images/poster.png" alt="Poster" style="max-width:100%;">
 
 ---
 
-## Poster
+<h2 id="schedule">Schedule</h2>
 
-![Workshop Poster](/assets/images/poster.png)
-
----
-
-## Schedule
-
-| Time        | Speaker        | Title |
-|------------|----------------|-------|
-| 09:00–09:30 | Opening        | Welcome |
-| 09:30–10:30 | Speaker 1      | Talk 1 |
-| 10:30–11:00 | Coffee Break   |       |
-| 11:00–12:00 | Speaker 2      | Talk 2 |
-| 12:00–14:00 | Lunch          |       |
-| 14:00–15:00 | Speaker 3      | Talk 3 |
-| 15:00–16:00 | Speaker 4      | Talk 4 |
-| 16:00–16:30 | Closing        | Discussion |
+<table>
+<tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
+<tr><td>09:00–09:30</td><td>Opening</td><td>Welcome</td></tr>
+<tr><td>09:30–10:30</td><td>Speaker 1</td><td>Talk 1</td></tr>
+<tr><td>10:30–11:00</td><td>Coffee Break</td><td></td></tr>
+<tr><td>11:00–12:00</td><td>Speaker 2</td><td>Talk 2</td></tr>
+<tr><td>12:00–14:00</td><td>Lunch</td><td></td></tr>
+<tr><td>14:00–15:00</td><td>Speaker 3</td><td>Talk 3</td></tr>
+<tr><td>15:00–16:00</td><td>Speaker 4</td><td>Talk 4</td></tr>
+<tr><td>16:00–16:30</td><td>Closing</td><td>Discussion</td></tr>
+</table>
 
 ---
 
-## Titles and Abstracts
+<h2 id="abstracts">Titles and Abstracts</h2>
 
-### Speaker 1 — *Title of Talk 1*
-**Abstract:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Replace with actual abstract.
+<h3>Speaker 1 — <i>Title of Talk 1</i></h3>
+<p><b>Abstract:</b> Replace with actual abstract.</p>
 
----
+<h3>Speaker 2 — <i>Title of Talk 2</i></h3>
+<p><b>Abstract:</b> Replace with actual abstract.</p>
 
-### Speaker 2 — *Title of Talk 2*
-**Abstract:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Replace with actual abstract.
+<h3>Speaker 3 — <i>Title of Talk 3</i></h3>
+<p><b>Abstract:</b> Replace with actual abstract.</p>
 
----
-
-### Speaker 3 — *Title of Talk 3*
-**Abstract:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Replace with actual abstract.
+<h3>Speaker 4 — <i>Title of Talk 4</i></h3>
+<p><b>Abstract:</b> Replace with actual abstract.</p>
 
 ---
 
-### Speaker 4 — *Title of Talk 4*
-**Abstract:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Replace with actual abstract.
-
----
-
-## Registration
+<h2 id="registration">Registration</h2>
 
 <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-  <label>
-    Name:<br>
+  <label>Name:<br>
     <input type="text" name="name" required>
   </label>
   <br><br>
-  
-  <label>
-    Email:<br>
+
+  <label>Email:<br>
     <input type="email" name="email" required>
   </label>
   <br><br>
-  
+
   <button type="submit">Register</button>
 </form>
 
-<p><i>Note: Replace YOUR_FORM_ID with a Formspree endpoint or similar service.</i></p>
+<p><i>Replace YOUR_FORM_ID with your form endpoint.</i></p>
 
 ---
 
-## Practical Information
+<h2 id="practical">Practical Information</h2>
 
-**Location:**  
-University / Institute name, Room XXX
+<p><b>Location:</b> University / Institute name, Room XXX</p>
+<p><b>Address:</b> Street, City, Country</p>
+<p><b>Date:</b> Insert date</p>
 
-**Address:**  
-Street name, City, Country
+<p><b>Travel:</b></p>
+<ul>
+<li>Nearest airport: XXX</li>
+<li>Public transport: XXX</li>
+</ul>
 
-**Date:**  
-Insert date here
+<p><b>Accommodation:</b></p>
+<ul>
+<li>Hotel suggestions nearby</li>
+</ul>
 
-**Travel:**  
-- Nearest airport: XXX  
-- Public transport: XXX  
+<p><b>Contact:</b> your.email@example.com</p>
 
-**Accommodation:**  
-- Hotel suggestions nearby  
-
-**Contact:**  
-your.email@example.com
-
----
+</body>
+</html>
