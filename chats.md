@@ -36,12 +36,12 @@ permalink: /chats/
     h1, h2, h3 {
       margin-top: 30px;
       color: white;
-      font-family: "Georgia", "Times New Roman", serif;
+      font-family: "Garamond", "Palatino Linotype", "Didot", "Times New Roman", serif;
       text-shadow: 
-        -1px -1px 0 black,
-         1px -1px 0 black,
-        -1px  1px 0 black,
-         1px  1px 0 black;
+        -0.5px -0.5px 0 rgba(0,0,0,0.6),
+         0.5px -0.5px 0 rgba(0,0,0,0.6),
+        -0.5px  0.5px 0 rgba(0,0,0,0.6),
+         0.5px  0.5px 0 rgba(0,0,0,0.6);
     }
 
     h1 {
