@@ -17,14 +17,16 @@ permalink: /chats/
 
     nav {
       margin-bottom: 30px;
-      border-bottom: 1px solid #ccc;
+      border-bottom: 2px solid black;
       padding-bottom: 10px;
+      text-align: center;
     }
 
     nav a {
-      margin-right: 15px;
+      margin: 0 15px;
       text-decoration: none;
-      color: white;  /* changed */
+      color: black;
+      font-weight: bold;
     }
 
     nav a:hover {
@@ -33,7 +35,25 @@ permalink: /chats/
 
     h1, h2, h3 {
       margin-top: 30px;
-      color: white;  /* added */
+      color: white;
+      font-family: "Georgia", "Times New Roman", serif;
+      text-shadow: 
+        -1px -1px 0 black,
+         1px -1px 0 black,
+        -1px  1px 0 black,
+         1px  1px 0 black;
+    }
+
+    h1 {
+      font-size: 2.5em;
+    }
+
+    h2 {
+      font-size: 2em;
+    }
+
+    h3 {
+      font-size: 1.5em;
     }
 
     table {
@@ -95,7 +115,6 @@ permalink: /chats/
 <tr><td>15:30–16:30</td><td>M.B.</td><td>Title 4</td></tr>
 </table>
 
----
 
 <h2 id="abstracts">Titles and Abstracts</h2>
 
@@ -116,7 +135,7 @@ permalink: /chats/
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Jc--PO1-Op-fkLNbXiZZNRPfIbpt04-aZA_skmBOX1q6OA/viewform?embedded=true"
         width="100%"
-        height="800"
+        height="400"
         frameborder="0"
         marginheight="0"
         marginwidth="0">
@@ -126,9 +145,9 @@ Loading…
 
 <h2 id="practical">Practical Information</h2>
 
-<p><b>Location:</b> University / Institute name, Room XXX</p>
-<p><b>Address:</b> Street, City, Country</p>
-<p><b>Date:</b> Insert date</p>
+<p><b>Location:</b> UPEC, Room XXX</p>
+<p><b>Address:</b> Créteil, France</p>
+<p><b>Date:</b> 5th of June of 2026</p>
 
 <p><b>Travel:</b></p>
 <ul>
