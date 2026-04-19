@@ -6,6 +6,7 @@ permalink: /chats/
 <html>
 <head>
   <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
   <title>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</title>
   <style>
     body {
@@ -14,9 +15,8 @@ permalink: /chats/
       max-width: 900px;
       background-color: #cfe3f1;  /* slightly darker */
     }
-  .subtitle {
-  font-family: "Zapfino", "URW Chancery L", "Apple Chancery", "Snell Roundhand",
-               "Great Vibes", cursive;
+ .subtitle {
+  font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
   color: black;
   font-size: 1.65em;
   margin-top: -12px;
@@ -24,7 +24,7 @@ permalink: /chats/
   text-align: left;
   letter-spacing: 0.5px;
   font-style: italic;
-  }
+}
     nav {
       margin-bottom: 30px;
       border-bottom: 2px solid black;
