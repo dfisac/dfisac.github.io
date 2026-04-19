@@ -97,7 +97,7 @@ permalink: /chats/
 
 <body>
 
-<h1>Curves, Hyperbolicity, and Teichmüller Spaces (CHATS)</h1>
+<h1>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</h1>
 
 <div class="subtitle">A day on low-dimensional geometric topology</div>
 
