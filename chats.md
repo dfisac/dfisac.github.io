@@ -18,12 +18,12 @@ permalink: /chats/
   font-family: "Zapfino", "URW Chancery L", "Apple Chancery", "Snell Roundhand",
                "Great Vibes", cursive;
   color: black;
-  font-size: 1.35em;
+  font-size: 1.65em;
   margin-top: -12px;
   margin-bottom: 20px;
   text-align: left;
   letter-spacing: 0.5px;
-  font-style: normal;
+  font-style: italic;
   }
     nav {
       margin-bottom: 30px;
