@@ -76,9 +76,10 @@ permalink: /chats/
     }
 
     th, td {
-      padding: 8px;
-      text-align: left;
-    }
+  padding: 8px;
+  text-align: left;
+  background-color: rgba(255, 255, 255, 0.6);
+}
 
     form input, form button {
       padding: 8px;
