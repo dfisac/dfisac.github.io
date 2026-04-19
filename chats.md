@@ -18,12 +18,12 @@ permalink: /chats/
  .subtitle {
   font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
   color: black;
-  font-size: 1.65em;
+  font-size: 1.85em;
   margin-top: -12px;
   margin-bottom: 20px;
   text-align: left;
   letter-spacing: 0.5px;
-  font-style: italic;
+  font-style: normal;
 }
     nav {
       margin-bottom: 30px;
