@@ -166,7 +166,7 @@ Loading…
 
 <p><b>Travel:</b></p>
 <ul>
-<li>Public transport: RER D until "Le Vert de Maisons" (~9' from Gare de Lyon) AND 1km walk (~15'), OR 
+<li>Public transport: RER D until "Le Vert de Maisons" (~9' from Gare de Lyon) AND 1km walk (~15'), OR <br>
   
   Metro 8 until "Créteil Université" (~25' from Bastille) AND 850m walk (~12')</li>
 </ul>
