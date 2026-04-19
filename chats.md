@@ -10,11 +10,12 @@ permalink: /chats/
   <title>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      max-width: 900px;
-      background-color: #cfe3f1;  /* slightly darker */
-    }
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  max-width: none;
+  width: 100%;
+  background-color: #cfe3f1;
+}
  .subtitle {
   font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
   color: black;
