@@ -11,9 +11,9 @@ permalink: /chats/
   <style>
     body {
   font-family: Arial, sans-serif;
-  margin: 20px;
+  margin: 30px;
   max-width: none;
-  width: 100%;
+  width: 95%;
   background-color: #cfe3f1;
 }
  .subtitle {
