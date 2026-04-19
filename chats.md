@@ -171,7 +171,7 @@ Loading…
 
 <p><b>Contact:</b> david.fisac-camara@cnrs.fr, yusen.long@u-pec.fr</p>
 
-<img width="1717" height="621" alt="image" src="https://github.com/user-attachments/assets/2c2e2b3b-8c3e-4eba-9ffe-c38746a95006" />
+<img width="1717" height="621" alt="image" style="max-width:100%;" src="https://github.com/user-attachments/assets/2c2e2b3b-8c3e-4eba-9ffe-c38746a95006" />
 
 </body>
 </html>
