@@ -110,7 +110,7 @@ permalink: /chats/
 
 <h2 id="poster">Poster</h2>
 
-<img src="/assets/chats_ai.png" alt="Poster" style="max-width:100%; height:auto; display:block; margin:auto;">
+<img src="/assets/chats_ai.png" alt="Poster" style="max-width:100%; max-height:90vh; height:auto; display:block; margin:auto;">
 
 
 <h2 id="schedule">Schedule</h2>
@@ -144,6 +144,8 @@ permalink: /chats/
 
 
 <h2 id="registration">Registration</h2>
+
+Please register using the below form by 15th of May for coffee breaks and lunch count.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Jc--PO1-Op-fkLNbXiZZNRPfIbpt04-aZA_skmBOX1q6OA/viewform?embedded=true"
         width="100%"
