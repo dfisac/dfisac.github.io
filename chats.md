@@ -160,13 +160,13 @@ Loading…
 
 <h2 id="practical">Practical Information</h2>
 
-<p><b>Location:</b> UPEC, Room XXX</p>
-<p><b>Address:</b> Créteil, France</p>
-<p><b>Date:</b> 5th of June of 2026</p>
+<p><b>Location:</b> UPEC, MSE, Amphi</p>
+<p><b>Address:</b> 5 Rue Pasteur Vallery Radot, 94000 Créteil, France.</p>
+<p><b>Date:</b> 5th of June of 2026.</p>
 
 <p><b>Travel:</b></p>
 <ul>
-<li>Public transport: XXX</li>
+<li>Public transport: RER D until "Le Vert de Maisons" (~9' from Gare de Lyon) AND 1km walk (~15') OR Metro 8 until "Créteil Université" (~25' from Bastille) AND 850m walk (~12')</li>
 </ul>
 
 <p><b>Contact:</b> david.fisac-camara@cnrs.fr, yusen.long@u-pec.fr</p>
