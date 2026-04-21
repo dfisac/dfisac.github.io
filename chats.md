@@ -132,16 +132,16 @@ permalink: /chats/
 
 <h2 id="abstracts">Titles and Abstracts</h2>
 
-<h3>Speaker 1 — <i>TBA</i></h3>
+<h3>Mladen Bestvina — <i>TBA</i></h3>
 <p><b>Abstract:</b> TBA</p>
 
-<h3>Speaker 2 — <i>TBA</i></h3>
+<h3>Nolwenn Le Quellec — <i>TBA</i></h3>
 <p><b>Abstract:</b> TBA</p>
 
 <h3>Speaker 3 — <i>TBA</i></h3>
 <p><b>Abstract:</b> TBA</p>
 
-<h3>Speaker 4 — <i>TBA</i></h3>
+<h3>Ferrán Valdez — <i>TBA</i></h3>
 <p><b>Abstract:</b> TBA</p>
 
 
