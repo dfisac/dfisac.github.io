@@ -175,6 +175,7 @@ Loading…
 <p><b>Contact:</b> david.fisac-camara@cnrs.fr, yusen.long@u-pec.fr</p>
 
 <img width="1741" height="672" alt="mapa_creteil_gran" style="max-width:100%; height:auto; display:block;" src="https://github.com/user-attachments/assets/e48f0399-810b-492a-8456-5dc5313b3924" />
+<p> </p>
 
 <img width="724" height="473" alt="mapa_creteil" style="max-width:100%; height:auto; display:block;" src="https://github.com/user-attachments/assets/ef442ffd-b1eb-423f-ae7e-633239d68bae" />
 
