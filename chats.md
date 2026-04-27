@@ -115,18 +115,18 @@ permalink: /chats/
 <img src="/assets/CHATS_poster.png" alt="Poster" style="max-width:100%; max-height:90vh; height:auto; display:block; margin:auto;">
 
 
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">Schedule (tentative)</h2>
 
 <table>
 <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
-<tr><td>09:30–10:00</td><td>Welcome + Coffee</td><td></td></tr>
-<tr><td>10:00–11:00</td><td>Suzanne Schlich</td><td>Title 1</td></tr>
+<tr><td>09:30–10:00</td><td>Welcome</td><td></td></tr>
+<tr><td>10:00–11:00</td><td>Suzanne Schlich</td><td>Title</td></tr>
 <tr><td>11:00–11:30</td><td>Coffee Break</td><td></td></tr>
-<tr><td>11:30–12:30</td><td>Ferrán Valdez</td><td>Title 2</td></tr>
+<tr><td>11:30–12:30</td><td>Ferrán Valdez</td><td>Title</td></tr>
 <tr><td>12:30–14:00</td><td>Lunch</td><td>Where</td></tr>
-<tr><td>14:00–15:00</td><td>Nolwenn Le Quellec</td><td>Title 3</td></tr>
+<tr><td>14:00–15:00</td><td>Nolwenn Le Quellec</td><td>Title</td></tr>
 <tr><td>15:00–15:30</td><td>Coffee Break</td><td> </td></tr>
-<tr><td>15:30–16:30</td><td>Mladen Bestvina</td><td>Title 4</td></tr>
+<tr><td>15:30–16:30</td><td>Mladen Bestvina</td><td>Title</td></tr>
 </table>
 
 
