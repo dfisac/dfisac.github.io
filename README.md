@@ -35,6 +35,9 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 <img src="https://github.com/user-attachments/assets/c263cf92-5020-48c2-855c-33519d592b36" width="600"/>
 </p>
 
+# Organisation
+Together with Yusen Long, we are organising <a href="https://dfisac.github.io/chats" style="color: orange;"> Curves, Hyperbolicity, And Teichmüller Spaces</a>, a workshop on low-dimensional geometric topology.
+
 # Invited Talks
  - (Future) **Curve counting: what’s next?** at the Hamilton Mathematics Institute, May 2026, Dublin, Ireland. 
  - **Geometry and Spectra of Riemann Surfaces** (lightning) at EPFL, Apr 2026, Lausanne, Switzerland.
