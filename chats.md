@@ -10,22 +10,24 @@ permalink: /chats/
   <title>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</title>
   <style>
     body {
-  font-family: Arial, sans-serif;
-  margin: 30px;
-  max-width: none;
-  width: 95%;
-  background-color: #cfe3f1;
-}
- .subtitle {
-  font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
-  color: black;
-  font-size: 1.85em;
-  margin-top: -12px;
-  margin-bottom: 20px;
-  text-align: left;
-  letter-spacing: 0.5px;
-  font-style: normal;
-}
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      max-width: none;
+      width: 95%;
+      background-color: #cfe3f1;
+    }
+
+    .subtitle {
+      font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
+      color: black;
+      font-size: 1.85em;
+      margin-top: -12px;
+      margin-bottom: 20px;
+      text-align: left;
+      letter-spacing: 0.5px;
+      font-style: normal;
+    }
+
     nav {
       margin-bottom: 30px;
       border-bottom: 2px solid black;
@@ -44,7 +46,7 @@ permalink: /chats/
       text-decoration: underline;
     }
 
-    h1, h2 {
+    h1 {
       margin-top: 30px;
       color: white;
       font-family: "Garamond", "Palatino Linotype", "Didot", "Times New Roman", serif;
@@ -53,14 +55,27 @@ permalink: /chats/
          0.5px -0.5px 0 rgba(0,0,0,0.6),
         -0.5px  0.5px 0 rgba(0,0,0,0.6),
          0.5px  0.5px 0 rgba(0,0,0,0.6);
-    }
-
-    h1 {
       font-size: 2.5em;
     }
 
     h2 {
       font-size: 2.3em;
+    }
+
+    /* NEW: Section title strip */
+    .section-title {
+      background-color: #5b84b1;
+      color: white;
+      padding: 12px 16px;
+      margin-top: 40px;
+      margin-bottom: 15px;
+      border-radius: 6px;
+      font-family: "Garamond", "Palatino Linotype", "Didot", serif;
+      text-shadow: 
+        -0.5px -0.5px 0 rgba(0,0,0,0.6),
+         0.5px -0.5px 0 rgba(0,0,0,0.6),
+        -0.5px  0.5px 0 rgba(0,0,0,0.6),
+         0.5px  0.5px 0 rgba(0,0,0,0.6);
     }
 
     h3 {
@@ -77,10 +92,10 @@ permalink: /chats/
     }
 
     th, td {
-  padding: 8px;
-  text-align: left;
-  background-color: rgba(255, 255, 255, 0.6);
-}
+      padding: 8px;
+      text-align: left;
+      background-color: rgba(255, 255, 255, 0.6);
+    }
 
     form input, form button {
       padding: 8px;
@@ -110,12 +125,12 @@ permalink: /chats/
 </nav>
 
 
-<h2 id="poster">Poster</h2>
+<h2 id="poster" class="section-title">Poster</h2>
 
 <img src="/assets/CHATS_poster.png" alt="Poster" style="max-width:100%; max-height:90vh; height:auto; display:block; margin:auto;">
 
 
-<h2 id="schedule">Schedule (tentative)</h2>
+<h2 id="schedule" class="section-title">Schedule (tentative)</h2>
 
 <table>
 <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
@@ -130,7 +145,7 @@ permalink: /chats/
 </table>
 
 
-<h2 id="abstracts">Titles and Abstracts</h2>
+<h2 id="abstracts" class="section-title">Titles and Abstracts</h2>
 
 <h3>Mladen Bestvina — <i>TBA</i></h3>
 <p><b>Abstract:</b> TBA</p>
@@ -145,7 +160,7 @@ permalink: /chats/
 <p><b>Abstract:</b> TBA</p>
 
 
-<h2 id="registration">Registration</h2>
+<h2 id="registration" class="section-title">Registration</h2>
 
 Please register using the below form by 15th of May for coffee breaks and lunch count.
 
@@ -159,7 +174,7 @@ Loading…
 </iframe>
 
 
-<h2 id="practical">Practical Information</h2>
+<h2 id="practical" class="section-title">Practical Information</h2>
 
 <p><b>Location:</b> UPEC, MSE, Amphi 3</p>
 <p><b>Address:</b> 5 Rue Pasteur Vallery Radot, 94000 Créteil, France.</p>
@@ -168,13 +183,13 @@ Loading…
 <p><b>Travel:</b></p>
 <ul>
 <li>RER D until "Le Vert de Maisons" (~9' from Gare de Lyon) AND 1km walk (~15'), OR </li>
-  
-  <li>Metro 8 until "Créteil Université" (~25' from Bastille) AND 850m walk (~12')</li>
+<li>Metro 8 until "Créteil Université" (~25' from Bastille) AND 850m walk (~12')</li>
 </ul>
 
 <p><b>Contact:</b> david.fisac-camara@cnrs.fr, yusen.long@u-pec.fr</p>
 
 <img width="1741" height="672" alt="mapa_creteil_gran" style="max-width:100%; height:auto; display:block;" src="https://github.com/user-attachments/assets/e48f0399-810b-492a-8456-5dc5313b3924" />
+
 <p> </p>
 
 <img width="724" height="473" alt="mapa_creteil" style="max-width:100%; height:auto; display:block;" src="https://github.com/user-attachments/assets/ef442ffd-b1eb-423f-ae7e-633239d68bae" />
