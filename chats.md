@@ -199,7 +199,7 @@ Loading…
 <h2 id="practical" class="section-title">Practical Information</h2>
 
 <p><b>Location:</b> UPEC, MSE, Amphi 3</p>
-<p><b>Address:</b> 5 Rue Pasteur Vallery Radot, 94000 Créteil, France.</p>
+<p><b>Address:</b> 61 Av. du Général de Gaulle, 94000 Créteil, France.</p>
 <p><b>Date:</b> 5th of June of 2026.</p>
 
 <p><b>Travel:</b></p>
