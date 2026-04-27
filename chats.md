@@ -16,7 +16,11 @@ permalink: /chats/
       width: 95%;
       background-color: #cfe3f1;
     }
-  
+    .center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}  
     .subtitle {
       font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
       color: black;
@@ -210,7 +214,10 @@ Loading…
 
 <p> </p>
 
-<img width="724" height="473" alt="mapa_creteil" style="max-width:100%; height:auto; display:block;" src="https://github.com/user-attachments/assets/ef442ffd-b1eb-423f-ae7e-633239d68bae" />
+<img width="724" height="473" alt="mapa_creteil"
+     class="center-img"
+     style="max-width:100%; height:auto; display:block;"
+     src="https://github.com/user-attachments/assets/ef442ffd-b1eb-423f-ae7e-633239d68bae" />
 
 </body>
 </html>
