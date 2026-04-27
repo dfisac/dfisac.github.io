@@ -36,7 +36,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 </p>
 
 # Organisation
-<a href="https://dfisac.github.io/chats" style="color: orange;"> Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</a>,
+<a href="https://dfisac.github.io/chats" style="color: orange;"> Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</a>,<br>
 organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html" style="color: orange;">Yusen Long</a>, a workshop on low-dimensional geometric topology.
 
 # Invited Talks
