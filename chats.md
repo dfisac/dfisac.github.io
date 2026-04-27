@@ -123,7 +123,7 @@ permalink: /chats/
 <tr><td>10:00–11:00</td><td>Suzanne Schlich</td><td>Title</td></tr>
 <tr><td>11:00–11:30</td><td>Coffee Break</td><td></td></tr>
 <tr><td>11:30–12:30</td><td>Ferrán Valdez</td><td>Title</td></tr>
-<tr><td>12:30–14:00</td><td>Lunch</td><td>Where</td></tr>
+<tr><td>12:30–14:00</td><td>Lunch</td><td> </td></tr>
 <tr><td>14:00–15:00</td><td>Nolwenn Le Quellec</td><td>Title</td></tr>
 <tr><td>15:00–15:30</td><td>Coffee Break</td><td> </td></tr>
 <tr><td>15:30–16:30</td><td>Mladen Bestvina</td><td>Title</td></tr>
