@@ -16,7 +16,7 @@ permalink: /chats/
       width: 95%;
       background-color: #cfe3f1;
     }
-
+  
     .subtitle {
       font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
       color: black;
@@ -77,7 +77,24 @@ permalink: /chats/
         -0.5px  0.5px 0 rgba(0,0,0,0.6),
          0.5px  0.5px 0 rgba(0,0,0,0.6);
     }
+    .hero {
+  background-color: #5b84b1;
+  color: white;
+  padding: 20px 20px 15px 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
 
+.hero h1 {
+  margin: 0;
+  color: white;
+}
+
+.hero .subtitle {
+  margin-top: 8px;
+  margin-bottom: 0;
+  color: white;
+}
     h3 {
       font-size: 1.5em;
     }
@@ -112,9 +129,10 @@ permalink: /chats/
 
 <body>
 
-<h1>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</h1>
-
-<div class="subtitle">A day on low-dimensional geometric topology</div>
+<div class="hero">
+  <h1>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</h1>
+  <div class="subtitle">A day on low-dimensional geometric topology</div>
+</div>
 
 <nav>
   <a href="#poster">Poster</a>
