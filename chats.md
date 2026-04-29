@@ -184,7 +184,7 @@ permalink: /chats/
 
 <h2 id="registration" class="section-title">Registration</h2>
 
-Please register using the below form by 15th of May for coffee breaks and lunch count.
+Please register using the below form by 14th of May for coffee breaks and lunch count.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Jc--PO1-Op-fkLNbXiZZNRPfIbpt04-aZA_skmBOX1q6OA/viewform?embedded=true"
         width="100%"
