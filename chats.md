@@ -151,6 +151,7 @@ permalink: /chats/
 
 <img src="/assets/CHATS_poster.png" alt="Poster" style="max-width:100%; max-height:90vh; height:auto; display:block; margin:auto;">
 
+<p><b>cats by @神券涨涨的</b></p>
 
 <h2 id="schedule" class="section-title">Schedule (tentative)</h2>
 
