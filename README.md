@@ -49,7 +49,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
  - **Geometry seminar at MPI MiS**, Jun 2025, Leipzig, Germany.
  - **Mittagsseminar CADMO** at ETHZ, May 2025, Zurich, Switzerland.
  - **Perspectives on Markov Numbers** (lightning), Jan 2025, BIRS, Banff, Canada. 
- - **Colloque de Géométri**e, Nov 2024, Université Paris-Est Créteil, France.
+ - **Colloque de Géométrie**, Nov 2024, Université Paris-Est Créteil, France.
  - **2nd International AMS-UMI Joint Meeting**, Jul 2024, Palermo, Sicily.
  - **Surfaces, Manifolds and Related Topics (SMaRT)**, Mar 2024, Luxembourg.
  - **Geometry Seminar UAB**, Jan 2024, Barcelona.
