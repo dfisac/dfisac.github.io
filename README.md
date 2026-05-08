@@ -42,7 +42,8 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 &ensp;&emsp;&emsp;organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html" style="color: orange;">Yusen Long</a>, a workshop on low-dimensional geometric topology.
 
 # Invited Talks
- - (Future) **Curve counting: what’s next?** at the Hamilton Mathematics Institute, May 2026, Dublin, Ireland. 
+ - (Future) **Curve counting: what’s next?** at the Hamilton Mathematics Institute, May 2026, Dublin, Ireland.
+ - **Séminaire Géométrie et Topologie** at Institut de Mathématiques de Jussieu, May 2026, Paris, France.
  - **Geometry and Spectra of Riemann Surfaces** (lightning) at EPFL, Apr 2026, Lausanne, Switzerland.
  - **Geometry and Topology seminar**, Dec 2025, Luxembourg.
  - **Geometry seminar at MPI MiS**, Jun 2025, Leipzig, Germany.
