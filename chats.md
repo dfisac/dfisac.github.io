@@ -193,14 +193,16 @@ display one of three qualitatively different behaviors. This work is joint with 
 
 Please register using the below form by 14th of May for coffee breaks and lunch count.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Jc--PO1-Op-fkLNbXiZZNRPfIbpt04-aZA_skmBOX1q6OA/viewform?embedded=true"
+<p><b>REGISTRATION IS NOW CLOSED. PLEASE CONTACT THE ORGANIZERS FOR A LATE REGISTRATION.</b></p>
+
+<!--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Jc--PO1-Op-fkLNbXiZZNRPfIbpt04-aZA_skmBOX1q6OA/viewform?embedded=true"
         width="100%"
         height="400"
         frameborder="0"
         marginheight="0"
         marginwidth="0">
 Loading…
-</iframe>
+</iframe> -->
 
 
 <h2 id="practical" class="section-title">Practical Information</h2>
