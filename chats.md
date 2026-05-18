@@ -177,7 +177,7 @@ type </i></h3>
 invariant and so that for every complementary component the first return map is either periodic or pseudo-Anosov. Homeomorphisms of
 infinite type surfaces are much more complicated. In this work we focus on the class of tempered homeomorphisms -- these are the ones
 that do not have any mixing behavior. We show that up to isotopy there is an invariant geodesic lamination so that the first return maps
-display one of three qualitatively different behaviors. This work is joint with Federica Fanoni and Jing Tao.</b> TBA</p>
+display one of three qualitatively different behaviors. This work is joint with Federica Fanoni and Jing Tao.</b></p>
 
 <h3>Nolwenn Le Quellec — <i>TBA</i></h3>
 <p><b>Abstract:</b> TBA</p>
