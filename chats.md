@@ -157,7 +157,7 @@ permalink: /chats/
 
 <table>
 <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
-<tr><td>09:30–10:00</td><td>Welcome</td><td></td></tr>
+<tr><td>09:30–10:00</td><td>Welcome & Coffee</td><td></td></tr>
 <tr><td>10:00–11:00</td><td>Suzanne Schlich</td><td>Title</td></tr>
 <tr><td>11:00–11:30</td><td>Coffee Break</td><td></td></tr>
 <tr><td>11:30–12:30</td><td>Ferrán Valdez</td><td>Title</td></tr>
