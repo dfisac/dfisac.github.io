@@ -161,7 +161,7 @@ permalink: /chats/
 <table>
 <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
 <tr><td>09:30–10:00</td><td>Welcome & Coffee</td><td></td></tr>
-<tr><td>10:00–11:00</td><td>Suzanne Schlich</td><td>Title</td></tr>
+<tr><td>10:00–11:00</td><td>Suzanne Schlich</td><td>Bowditch representations in Gromov-hyperbolic spaces</td></tr>
 <tr><td>11:00–11:30</td><td>Coffee Break</td><td></td></tr>
 <tr><td>11:30–12:30</td><td>Ferrán Valdez</td><td>Big mapping classes à la Denjoy and à la Penner</td></tr>
 <tr><td>12:30–14:00</td><td>Lunch</td><td> </td></tr>
@@ -187,8 +187,8 @@ display one of three qualitatively different behaviors. This work is joint with 
 On another note, hyperbolic surfaces live in the Teichmüller space, which is usually described with Fenchel-Nielsen coordinates. In this talk, we will see how for hyperbolic surfaces with boundary we can use a different set of coordinates to study the rigidity of the orthospectrum and the simple orthospectrum and extend Masai and McShane's results: Ushijima coordinates.
 </p>
 
-<h3>Suzanne Schlich — <i>TBA</i></h3>
-<p><b>Abstract:</b> TBA</p>
+<h3>Suzanne Schlich — <i>Bowditch representations in Gromov-hyperbolic spaces</i></h3>
+<p><b>Abstract:</b> Bowditch, followed by Tan-Wong-Zhang, introduced in 1998 a class of representations of the once-punctured torus group into PSL(2,C). Using trace relations in PSL(2,C), they give a condition on a representation which ensures that the translation lengths of the images of simple closed curves grow linearly with respect to the word length. In this talk, I will explain how to define and study a generalization of these conditions in the context of Gromov-hyperbolic spaces, where no trace relations hold, and give several characterizations of this set. I will also explain how this work makes it possible to study the dynamics of the mapping class group on the space of Bowditch representations. </p>
 
 <h3>Ferrán Valdez — <i>Big mapping classes à la Denjoy and à la Penner</i></h3>
 <p><b>Abstract:</b> In this talk we discuss homeomorphisms of big surfaces related to Denjoy homeomorphisms of the circle and products of weighted Dehn twists inspired by Penner's examples of pseudo-Anosov homeomorphisms. The discussion focuses on mapping torii and action on Teichmueller space.<br>
