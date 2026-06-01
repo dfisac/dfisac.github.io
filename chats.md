@@ -180,17 +180,17 @@ that do not have any mixing behavior. We show that up to isotopy there is an inv
 display one of three qualitatively different behaviors. This work is joint with Federica Fanoni and Jing Tao.</b></p>
 
 <h3>Nolwenn Le Quellec — <i>Ushijima coordinates and rigidity of the (simple) orthospectrum</i></h3>
-<p><b>Abstract:</b> In 1993 Basmajian introduces the orthospectrum: the multiset of lengths of orthogeodesics on a hyperbolic surface with boundary. Moreover we define the simple orthospectrum as the multiset of lengths of orthogeodesics without self-intersection. Masai and McShane studied the question "Does the orthospectrum determine, up to isometry, a hyperbolic surface ?", they gave an answer and a result of rigidity for surfaces with only one boundary component. 
+<p><b>Abstract: In 1993 Basmajian introduces the orthospectrum: the multiset of lengths of orthogeodesics on a hyperbolic surface with boundary. Moreover we define the simple orthospectrum as the multiset of lengths of orthogeodesics without self-intersection. Masai and McShane studied the question "Does the orthospectrum determine, up to isometry, a hyperbolic surface ?", they gave an answer and a result of rigidity for surfaces with only one boundary component. <br>
 On another note, hyperbolic surfaces live in the Teichmüller space, which is usually described with Fenchel-Nielsen coordinates. In this talk, we will see how for hyperbolic surfaces with boundary we can use a different set of coordinates to study the rigidity of the orthospectrum and the simple orthospectrum and extend Masai and McShane's results: Ushijima coordinates.
-</p>
+</b></p>
 
 <h3>Suzanne Schlich — <i>TBA</i></h3>
 <p><b>Abstract:</b> TBA</p>
 
 <h3>Ferrán Valdez — <i>Big mapping classes à la Denjoy and à la Penner</i></h3>
-<p><b>Abstract:</b> In this talk we discuss homeomorphisms of big surfaces related to Denjoy homeomorphisms of the circle and products of weighted Dehn twists inspired by Penner's examples of pseudo-Anosov homeomorphisms. The discussion focuses on mapping torii and action on Teichmueller space.
+<p><b>Abstract: In this talk we discuss homeomorphisms of big surfaces related to Denjoy homeomorphisms of the circle and products of weighted Dehn twists inspired by Penner's examples of pseudo-Anosov homeomorphisms. The discussion focuses on mapping torii and action on Teichmueller space.<br>
 
-This is joint work on one hand with Hernández-Hernández & Leininger, and on the other with Cremaschi & Souto. </p>
+This is joint work on one hand with Hernández-Hernández & Leininger, and on the other with Cremaschi & Souto. </b></p>
 
 
 <h2 id="registration" class="section-title">Registration</h2>
