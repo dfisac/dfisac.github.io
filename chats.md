@@ -156,7 +156,7 @@ permalink: /chats/
 
 <div style="text-align: center;">cats by @神券涨涨的</div>
 
-<h2 id="schedule" class="section-title">Schedule (tentative)</h2>
+<h2 id="schedule" class="section-title">Schedule</h2>
 
 <table>
 <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
