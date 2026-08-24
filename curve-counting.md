@@ -54,7 +54,7 @@ the number of primitive positive solutions of <span style="font-family:monospace
   #cc-status.err{color:#c0392b}
   #cc-out{display:none;margin-top:16px}
   #cc-formula{background:#fff;border:1px solid var(--cc-line);border-radius:12px;padding:16px 18px;overflow-x:auto;font-size:1.35rem;text-align:center}
-  .cc-bigmath{font-size:1.7rem;text-align:center;margin:20px 0;overflow-x:auto}
+  .cc-bigmath{font-size:1.5rem;text-align:center;margin:20px 0;overflow-x:auto}
   #cc-L0{font-size:1rem;margin:12px 0 2px}
   #cc-meta{display:flex;flex-wrap:wrap;gap:8px 26px;margin:6px 0 4px;font-size:.88rem}
   #cc-meta span{color:#888}#cc-meta b{font-family:monospace}
