@@ -5,9 +5,11 @@ layout: page
 ---
 
 I am a postdoc at Laboratoire d'Analyse et de Mathématiques Appliquées (<a href="https://lama-umr8050.fr/">LAMA</a>) mentored by <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a>.
-In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://perso.math.u-pem.fr/long.yusen/index.html">Yusen Long</a> at Université Paris-Est Créteil.
-Before, I completed my Pure Mathematics MSc at Imperial College London under the supervision of Marie-Amélie Lawn.
+
+In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://perso.math.u-pem.fr/long.yusen/index.html">Yusen Long</a> at Université Paris-Est Créteil. Before, I completed my Pure Mathematics MSc at Imperial College London under the supervision of Marie-Amélie Lawn.
+
 Here is my <a href="/CV.pdf" class="image fit">CV</a>.
+
 Some of the things that help my existence are in the following pictures.
 
 <div id="image-slider" style="max-width: 1200px; position: relative; overflow: hidden; margin: 24px auto; border-radius: 16px; box-shadow: 0 10px 30px -12px rgba(0,0,0,.35);">
