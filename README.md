@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/31380460/README.2.md)
 ---
 title: "Research"
 permalink: "/research/"
