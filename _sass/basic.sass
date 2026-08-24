@@ -1,5 +1,10 @@
+html
+  scroll-behavior: smooth
+
 body
   font: 16px / #{$line-height} $font-family
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
   font-size: $font-size
   background: light(100, 16)
   color: light(6, 100)
@@ -28,7 +33,8 @@ hr
 blockquote
   background: gray(12)
   color: light-dark(#555, #eee)
-  border-left: 3px solid gray(60)
+  border-left: 3px solid $accent
+  border-radius: 0 10px 10px 0
   padding: 1px 1.5em
 
 blockquote, figure
@@ -36,7 +42,7 @@ blockquote, figure
 
 img
   margin: .5em 0
-  border-radius: 4px
+  border-radius: 12px
   max-width: 100%
 
 li
@@ -47,7 +53,7 @@ table
   max-width: 100%
   overflow-y: auto
   border-collapse: collapse
-  border-radius: 2px
+  border-radius: 10px
 
 th, td
   padding: .5em 1em
@@ -60,7 +66,7 @@ pre
   font-size: .8em
   background: light(22)
   color: light(100)
-  border-radius: 5px
+  border-radius: 10px
   margin: 1.5em 0
   padding: .8em 1.2em
   overflow-x: auto
@@ -68,7 +74,7 @@ pre
 code:not(pre code)
   font-size: .9em
   background: gray(22)
-  border-radius: 3px
+  border-radius: 6px
   margin: 0 .1em
   padding: .2em .4em
   opacity: .75
