@@ -3,6 +3,11 @@
 
 COMMIT="87b9d2addca073ee622a6dac0e2d765029d243ff"
 
+# Create directories if they don't exist
+mkdir -p assets/fontawesome
+mkdir -p assets/fonts
+mkdir -p _data/font-awesome
+
 # List of binary files to restore
 FILES=(
   "CV.pdf"
@@ -31,8 +36,19 @@ echo "Restoring binary files from commit $COMMIT..."
 
 for file in "${FILES[@]}"; do
   echo "Restoring $file..."
-  git show $COMMIT:$file > "$file"
+  git show $COMMIT:"$file" > "$file" 2>/dev/null || echo "Warning: Could not restore $file"
 done
 
-echo "Done! Binary files have been restored."
-echo "Now run: git add . && git commit -m 'Restore binary files from commit 87b9d2a' && git push origin master"
+# Configure git
+git config --local user.email "action@github.com"
+git config --local user.name "Restoration Script"
+
+# Commit and push
+git add .
+if git diff --cached --quiet; then
+  echo "No changes to commit"
+else
+  git commit -m "Restore binary files and assets from commit 87b9d2a"
+  git push origin master
+  echo "Binary files restored and pushed successfully!"
+fi
