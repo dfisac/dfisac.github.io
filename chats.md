@@ -1,0 +1,240 @@
+---
+layout: none
+permalink: /chats/
+---
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+  <title>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      max-width: none;
+      width: 95%;
+      background-color: #cfe3f1;
+    }
+    p {
+    text-align: justify;
+}
+    .center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    .subtitle {
+      font-family: "Great Vibes", "Apple Chancery", "Zapfino", cursive;
+      color: black;
+      font-size: 1.85em;
+      margin-top: -12px;
+      margin-bottom: 20px;
+      text-align: left;
+      letter-spacing: 0.5px;
+      font-style: normal;
+    }
+
+    nav {
+      margin-bottom: 30px;
+      border-bottom: 2px solid black;
+      padding-bottom: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    h1 {
+      margin-top: 30px;
+      color: white;
+      font-family: "Garamond", "Palatino Linotype", "Didot", "Times New Roman", serif;
+      text-shadow: 
+        -0.5px -0.5px 0 rgba(0,0,0,0.6),
+         0.5px -0.5px 0 rgba(0,0,0,0.6),
+        -0.5px  0.5px 0 rgba(0,0,0,0.6),
+         0.5px  0.5px 0 rgba(0,0,0,0.6);
+      font-size: 2.5em;
+    }
+
+    h2 {
+      font-size: 2.3em;
+    }
+
+    /* NEW: Section title strip */
+    .section-title {
+      background-color: #5b84b1;
+      color: white;
+      padding: 12px 16px;
+      margin-top: 40px;
+      margin-bottom: 15px;
+      border-radius: 6px;
+      font-family: "Garamond", "Palatino Linotype", "Didot", serif;
+      text-shadow: 
+        -0.5px -0.5px 0 rgba(0,0,0,0.6),
+         0.5px -0.5px 0 rgba(0,0,0,0.6),
+        -0.5px  0.5px 0 rgba(0,0,0,0.6),
+         0.5px  0.5px 0 rgba(0,0,0,0.6);
+    }
+    .hero {
+  background-color: #5b84b1;
+  color: white;
+  padding: 20px 20px 15px 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+.hero h1 {
+  margin: 0;
+  color: white;
+}
+
+.hero .subtitle {
+  margin-top: 8px;
+  margin-bottom: 0;
+  color: white;
+}
+    h3 {
+      font-size: 1.5em;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+      background-color: rgba(255, 255, 255, 0.6);
+    }
+
+    form input, form button {
+      padding: 8px;
+      margin-top: 5px;
+      width: 300px;
+    }
+
+    form button {
+      width: auto;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="hero">
+  <h1>Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</h1>
+  <div class="subtitle">A day on low-dimensional geometric topology</div>
+</div>
+
+<nav>
+  <a href="#poster">Poster</a>
+  <a href="#schedule">Schedule</a>
+  <a href="#abstracts">Titles & Abstracts</a>
+  <a href="#registration">Registration</a>
+  <a href="#practical">Practical Info</a>
+</nav>
+
+
+<h2 id="poster" class="section-title">Poster</h2>
+
+<img src="/assets/CHATS_poster.png" alt="Poster" style="max-width:100%; max-height:90vh; height:auto; display:block; margin:auto;">
+
+<div style="text-align: center;">cats by @神券涨涨的</div>
+
+<h2 id="schedule" class="section-title">Schedule</h2>
+
+<table>
+<tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
+<tr><td>09:30–10:00</td><td>Welcome & Coffee</td><td></td></tr>
+<tr><td>10:00–11:00</td><td>Suzanne Schlich</td><td>Bowditch representations in Gromov-hyperbolic spaces</td></tr>
+<tr><td>11:00–11:30</td><td>Coffee Break</td><td></td></tr>
+<tr><td>11:30–12:30</td><td>Ferrán Valdez</td><td>Big mapping classes à la Denjoy and à la Penner</td></tr>
+<tr><td>12:30–14:00</td><td>Lunch</td><td> </td></tr>
+<tr><td>14:00–15:00</td><td>Nolwenn Le Quellec</td><td>Ushijima coordinates and rigidity of the (simple) orthospectrum</td></tr>
+<tr><td>15:00–15:30</td><td>Coffee Break</td><td> </td></tr>
+<tr><td>15:30–16:30</td><td>Mladen Bestvina</td><td>Towards the Nielsen-Thurston classification for surfaces of infinite
+type</td></tr>
+</table>
+
+
+<h2 id="abstracts" class="section-title">Titles and Abstracts</h2>
+
+<h3>Mladen Bestvina — <i>Towards the Nielsen-Thurston classification for surfaces of infinite
+type </i></h3>
+<p><b>Abstract:</b> The fundamental theorem of Thurston states that any homeomorphism of a surface of finite type can be isotoped so that some multi-curve is
+invariant and so that for every complementary component the first return map is either periodic or pseudo-Anosov. Homeomorphisms of
+infinite type surfaces are much more complicated. In this work we focus on the class of tempered homeomorphisms -- these are the ones
+that do not have any mixing behavior. We show that up to isotopy there is an invariant geodesic lamination so that the first return maps
+display one of three qualitatively different behaviors. This work is joint with Federica Fanoni and Jing Tao.</p>
+
+<h3>Nolwenn Le Quellec — <i>Ushijima coordinates and rigidity of the (simple) orthospectrum</i></h3>
+<p><b>Abstract:</b> In 1993 Basmajian introduces the orthospectrum: the multiset of lengths of orthogeodesics on a hyperbolic surface with boundary. Moreover we define the simple orthospectrum as the multiset of simple orthogeodesics. Both of them are two important geometric invariants of the surface. Considering these objects, we ask: if two surfaces share the same orthospectrum or the same simple orthospectrum, are they isometric?
+
+On another note, hyperbolic surfaces live in the Teichmüller space, which is usually described with Fenchel-Nielsen coordinates. In this talk, we will see how for hyperbolic surfaces with boundaries, we can introduce the Ushijima coordinates, which are parameterized by the lengths and "generalized angles" of the orthogeodesics.
+</p>
+
+<h3>Suzanne Schlich — <i>Bowditch representations in Gromov-hyperbolic spaces</i></h3>
+<p><b>Abstract:</b> Bowditch, followed by Tan-Wong-Zhang, introduced in 1998 a class of representations of the once-punctured torus group into PSL(2,C). Using trace relations in PSL(2,C), they give an affine algebraic variety structure for the representation space of the once-punctured torus into PSL(2,C), a 4-dimensional variety. In this talk, we will describe how Bowditch representations generalize to representations of the once-punctured torus group into groups acting on Gromov-hyperbolic spaces in a nice way, and how we obtain the same variety structure there.</p>
+
+<h3>Ferrán Valdez — <i>Big mapping classes à la Denjoy and à la Penner</i></h3>
+<p><b>Abstract:</b> In this talk we discuss homeomorphisms of big surfaces related to Denjoy homeomorphisms of the circle and products of weighted Dehn twists inspired by Penner's examples of pseudo-Anosov homeomorphisms. Our examples suggest that the dynamical and topological properties of these homeomorphisms share similar behaviors. 
+
+This is joint work on one hand with Hernández-Hernández & Leininger, and on the other with Cremaschi & Souto. </p>
+
+
+<h2 id="registration" class="section-title">Registration</h2>
+
+Please register using the below form by 14th of May for coffee breaks and lunch count.
+
+<p><b>REGISTRATION IS NOW CLOSED. PLEASE CONTACT THE ORGANIZERS FOR A LATE REGISTRATION.</b></p>
+
+<!--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Jc--PO1-Op-fkLNbXiZZNRPfIbpt04-aZA_skmBOX1q6OA/viewform?embedded=true"
+        width="100%"
+        height="400"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0">
+Loading…
+</iframe> -->
+
+
+<h2 id="practical" class="section-title">Practical Information</h2>
+
+<p><b>Location:</b> UPEC, Amphi 3</p>
+<p><b>Address:</b> 61 Av. du Général de Gaulle, 94000 Créteil, France.</p>
+<p><b>Date:</b> 5th of June of 2026.</p>
+
+<p><b>Travel:</b></p>
+<ul>
+<li>RER D until "Le Vert de Maisons" (~9' from Gare de Lyon) AND 1km walk (~15'), OR </li>
+<li>Metro 8 until "Créteil Université" (~25' from Bastille) AND 850m walk (~12')</li>
+</ul>
+
+<p><b>Contact:</b> david.fisac-camara@cnrs.fr, yusen.long@u-pec.fr</p>
+
+<img width="1741" height="672" alt="mapa_creteil_gran" style="max-width:100%; height:auto; display:block;" src="https://github.com/user-attachments/assets/e48f0399-810b-492a-8456-5dc5313b3924" />
+
+<p> </p>
+
+<img width="724" height="473" alt="mapa_creteil"
+     class="center-img"
+     style="max-width:100%; height:auto; display:block;"
+     src="https://github.com/user-attachments/assets/ef442ffd-b1eb-423f-ae7e-633239d68bae" />
+
+</body>
+</html>

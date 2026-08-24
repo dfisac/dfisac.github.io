@@ -1,87 +1,61 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Research"
+permalink: "/research/"
 layout: page
 ---
 
-## Github Pages
+![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/touring.jpg?raw=true)
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+# Interests
 
-## Features
+My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic points of view. More specifically, growth invariants as the volume entropy, curve counting problems, rigidity of their spectra, and how Teichmüller theory provides a bridge between all these perspectives.
 
- - dark mode
- - [KaTeX](https://katex.org) included
- - no external ressources
- - optional sidebar
- - archive page
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+# (Pre)Publications
 
-## Installation
+ **[4].** &emsp; Isospectrality for infinite-type hyperbolic surfaces with discrete length spectrum,\
+   &ensp;&emsp;&emsp; with <a href="https://fanoni.perso.math.cnrs.fr/" style="color: orange;"> Federica Fanoni</a>, *submitted*,\
+   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/pdf/2602.19670" style="color: orange;"> arXiv:2602.19670</a>.
 
-To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
+ **[3].** &emsp; Single self-intersection words on the once-punctured torus and their counting,\
+   &ensp;&emsp;&emsp; with <a href="https://www.math.univ-paris13.fr/~mingkun.liu/" style="color: orange;"> Mingkun Liu</a>, *submitted*,\
+   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2404.09372" style="color: orange;"> arXiv:2404.09372</a>.
 
-```
-git clone https://github.com/niklasbuschmann/contrast.git
-cd contrast
-gem install bundler jekyll jekyll-feed
-bundle exec jekyll serve
-```
+ **[2].** &emsp; A Basmajian-type inequality for Riemannian surfaces,\
+   &ensp;&emsp;&emsp; with <a href="https://mat.uab.cat/~fbalacheff/" style="color: orange;"> Florent Balacheff</a>, 
+    *Journal of Topology and Analysis 18 (04): 1199-1212 (2026)*, \
+    &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2311.03182" style="color: orange;"> arXiv:2311.03182</a>.
 
-## Config
+ **[1].** &emsp; Markov's Conjecture on integral necklaces,\
+   &ensp;&emsp;&emsp; *Bulletin of the London Mathematical Society, 57 (12): 4122-4131 (2025)*,\
+   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2501.15550" style="color: orange;"> arXiv:2501.15550</a>.
+<br>
 
-Your `_config.yml` could for example look like this:
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c263cf92-5020-48c2-855c-33519d592b36" width="600"/>
+</p>
 
-# Layout
+# Organisation
+<span style="font-size: 18px;"> 
+<a href="https://dfisac.github.io/chats" style="color: orange;"> Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</a>,
+</span> <br>
+&ensp;&emsp;&emsp;organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html" style="color: orange;">Yusen Long</a>, a workshop on low-dimensional geometric topology.
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+# Invited Talks
+ - **Curve counting: what's next?** at the Hamilton Mathematics Institute, May 2026, Dublin, Ireland.
+ - **Séminaire Géométrie et Topologie** at Institut de Mathématiques de Jussieu, May 2026, Paris, France.
+ - **Geometry and Spectra of Riemann Surfaces** (lightning) at EPFL, Apr 2026, Lausanne, Switzerland.
+ - **Geometry and Topology seminar**, Dec 2025, Luxembourg.
+ - **Geometry seminar** at MPI MiS, Jun 2025, Leipzig, Germany.
+ - **Mittagsseminar CADMO** at ETHZ, May 2025, Zurich, Switzerland.
+ - **Perspectives on Markov Numbers** (lightning), Jan 2025, BIRS, Banff, Canada. 
+ - **Colloque de Géométrie**, Nov 2024, Université Paris-Est Créteil, France.
+ - **2nd International AMS-UMI Joint Meeting**, Jul 2024, Palermo, Sicily.
+ - **Surfaces, Manifolds and Related Topics (SMaRT)**, Mar 2024, Luxembourg.
+ - **Geometry Seminar** at Universitat Autònoma de Barcelona, Jan 2024, Barcelona.
+ - **Geometry, Probability and their Synergies**, Mar 2023, Les Diablerets, Switzerland.
+ - **VI Congreso de Jóvenes Investigadores de la RSME**, Feb 2023, León, Spain.
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+<br>
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
-
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
-
-plugins:
- - jekyll-feed
-```
-
-## Math
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter. [Jektex](https://github.com/yagarea/jektex) can be used to pre-render math on the server side.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://github.com/user-attachments/assets/8f0ef4bc-f079-495e-8c31-5867b8ccd25c)
-
-![screenshot](https://github.com/user-attachments/assets/e5e6d189-3251-41f4-baba-ff42be65f666)
-
-![screenshot](https://github.com/user-attachments/assets/d31879ae-7113-42be-b580-1e96a2aedd29)
-
-![screenshot](https://github.com/user-attachments/assets/d524ce47-8d8c-473e-afc6-79b34fae63e8)
+![alt text](https://github.com/dfisac/dfisac.github.io/blob/master/talk_palermo.jpg?raw=true)
