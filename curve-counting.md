@@ -503,7 +503,7 @@ def run_brute(word):  return _json.dumps(brute(word))
     for(var j=0;j<cn.length;j++) h += '<td>'+cn[j]+'</td>';
     h += '</tr></table>';
     $('cc-table').innerHTML = h;
-    $('cc-note').innerHTML = 'The dotted line marks L&#8320;. For L &lt; L&#8320; the orange values are the direct orbit '
+    $('cc-note').innerHTML = 'The dotted line marks L&#8320;. For L &lt; L&#8320; the blue values are the direct orbit '
       + 'enumeration; from L&#8320; on they are the closed formula.';
     typeset($('cc-formula'));
   }
