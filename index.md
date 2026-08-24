@@ -1,20 +1,21 @@
+[index (1).md](https://github.com/user-attachments/files/31380455/index.1.md)
 ---
 title: "About me"
 permalink: "/"
 layout: page
 ---
 
-I am a postdoc at Laboratoire d'Analyse et de Mathématiques Appliquées (<a href="https://lama-umr8050.fr/" style="color: orange;">LAMA</a>) mentored by <a href="https://fanoni.perso.math.cnrs.fr/" style="color: orange;">Federica Fanoni</a>.
+I am a postdoc at Laboratoire d'Analyse et de Mathématiques Appliquées (<a href="https://lama-umr8050.fr/">LAMA</a>) mentored by <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a>.
 
-In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/" style="color: orange;"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://perso.math.u-pem.fr/long.yusen/index.html" style="color: orange;">Yusen Long</a> at Université Paris-Est Créteil.
+In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://perso.math.u-pem.fr/long.yusen/index.html">Yusen Long</a> at Université Paris-Est Créteil.
 
 Before, I completed my Pure Mathematics MSc at Imperial College London under the supervision of Marie-Amélie Lawn.
 
-Here is my <a href="/CV.pdf" class="image fit" style="color: orange;">CV</a>.
+Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
 Some of the things that help my existence are in the following pictures.
 
-<div id="image-slider" style="max-width: 1200px; position: relative; overflow: hidden; margin: 20px auto;">
+<div id="image-slider" style="max-width: 1200px; position: relative; overflow: hidden; margin: 24px auto; border-radius: 16px; box-shadow: 0 10px 30px -12px rgba(0,0,0,.35);">
   <div id="slider-container" style="display: flex; transition: transform 0.5s ease;">
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix1.jpg?raw=true" alt="Image 1" style="width: 100%; flex-shrink: 0;">
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix2.jpg?raw=true" alt="Image 2" style="width: 100%; flex-shrink: 0;">
@@ -22,8 +23,8 @@ Some of the things that help my existence are in the following pictures.
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix4.jpg?raw=true" alt="Image 4" style="width: 100%; flex-shrink: 0;">
     <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix5.jpg?raw=true" alt="Image 5" style="width: 100%; flex-shrink: 0;">
   </div>
-  <button id="prev-btn" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❮</button>
-  <button id="next-btn" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: #fff; border: none; cursor: pointer; padding: 5px; font-size: 18px;">❯</button>
+  <button id="prev-btn" style="position:absolute; top:50%; left:14px; transform:translateY(-50%); width:42px; height:42px; border-radius:999px; background:rgba(255,255,255,.82); backdrop-filter:blur(6px); border:none; cursor:pointer; font-size:18px; color:#0c8ea3; box-shadow:0 2px 10px rgba(0,0,0,.18);">❮</button>
+  <button id="next-btn" style="position:absolute; top:50%; right:14px; transform:translateY(-50%); width:42px; height:42px; border-radius:999px; background:rgba(255,255,255,.82); backdrop-filter:blur(6px); border:none; cursor:pointer; font-size:18px; color:#0c8ea3; box-shadow:0 2px 10px rgba(0,0,0,.18);">❯</button>
 </div>
 
 <div id="image-footnote" style="text-align: center; margin-top: 10px; font-style: italic;">
