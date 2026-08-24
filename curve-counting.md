@@ -97,7 +97,7 @@ the number of primitive positive solutions of <span style="font-family:monospace
 <div id="cc-app">
   <div class="row">
     <div class="field">
-      <label for="cc-word">Curve &alpha;</label>
+      <label for="cc-word">Curve</label>
       <input id="cc-word" type="text" value="aaabbb" spellcheck="false" autocomplete="off">
     </div>
     <div class="field">
