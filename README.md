@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/31380460/README.2.md)
 ---
 title: "Research"
 permalink: "/research/"
@@ -13,21 +14,21 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 # (Pre)Publications
 
  **[4].** &emsp; Isospectrality for infinite-type hyperbolic surfaces with discrete length spectrum,\
-   &ensp;&emsp;&emsp; with <a href="https://fanoni.perso.math.cnrs.fr/" style="color: orange;"> Federica Fanoni</a>, *submitted*,\
-   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/pdf/2602.19670" style="color: orange;"> arXiv:2602.19670</a>.
+   &ensp;&emsp;&emsp; with <a href="https://fanoni.perso.math.cnrs.fr/"> Federica Fanoni</a>, *submitted*,\
+   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/pdf/2602.19670"> arXiv:2602.19670</a>.
 
  **[3].** &emsp; Single self-intersection words on the once-punctured torus and their counting,\
-   &ensp;&emsp;&emsp; with <a href="https://www.math.univ-paris13.fr/~mingkun.liu/" style="color: orange;"> Mingkun Liu</a>, *submitted*,\
-   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2404.09372" style="color: orange;"> arXiv:2404.09372</a>.
+   &ensp;&emsp;&emsp; with <a href="https://www.math.univ-paris13.fr/~mingkun.liu/"> Mingkun Liu</a>, *submitted*,\
+   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2404.09372"> arXiv:2404.09372</a>.
 
  **[2].** &emsp; A Basmajian-type inequality for Riemannian surfaces,\
-   &ensp;&emsp;&emsp; with <a href="https://mat.uab.cat/~fbalacheff/" style="color: orange;"> Florent Balacheff</a>, 
+   &ensp;&emsp;&emsp; with <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a>, 
     *Journal of Topology and Analysis 18 (04): 1199-1212 (2026)*, \
-    &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2311.03182" style="color: orange;"> arXiv:2311.03182</a>.
+    &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2311.03182"> arXiv:2311.03182</a>.
 
  **[1].** &emsp; Markov's Conjecture on integral necklaces,\
    &ensp;&emsp;&emsp; *Bulletin of the London Mathematical Society, 57 (12): 4122-4131 (2025)*,\
-   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2501.15550" style="color: orange;"> arXiv:2501.15550</a>.
+   &ensp;&emsp;&emsp; e-print: <a href="https://arxiv.org/abs/2501.15550"> arXiv:2501.15550</a>.
 <br>
 
 
@@ -37,9 +38,9 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 
 # Organisation
 <span style="font-size: 18px;"> 
-<a href="https://dfisac.github.io/chats" style="color: orange;"> Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</a>,
+<a href="https://dfisac.github.io/chats"> Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</a>,
 </span> <br>
-&ensp;&emsp;&emsp;organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html" style="color: orange;">Yusen Long</a>, a workshop on low-dimensional geometric topology.
+&ensp;&emsp;&emsp;organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html">Yusen Long</a>, a workshop on low-dimensional geometric topology.
 
 # Invited Talks
  - **Curve counting: what's next?** at the Hamilton Mathematics Institute, May 2026, Dublin, Ireland.
