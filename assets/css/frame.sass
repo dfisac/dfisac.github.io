@@ -14,12 +14,19 @@ body > *
   color: light(0, 100)
   padding: 1.75em calc(22% - 6rem)
   padding: clamp(1.5em, 4vw, 1.75em) max(1.5em, 22% - 6rem)
-  box-shadow: 0 -1px gray(10) inset, 0 0 1em light-dark(gray(10), transparent), 0 0 0 1px light-dark(transparent, light(26))
+  box-shadow: 0 -1px gray(10) inset, 0 10px 34px -14px light-dark(rgba(#0c8ea3,.20), transparent), 0 0 0 1px light-dark(transparent, light(26))
 
 body > header, body > footer
   background: light(20)
   background: light(20, 17)
   color: light(100)
+
+
+// rounded, softer card corners (the "less square" look)
+body > :first-child
+  border-radius: 16px 16px 0 0
+body > :last-child
+  border-radius: 0 0 16px 16px
 
 {% if site.show_frame contains "." %}
 
