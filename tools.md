@@ -4,7 +4,7 @@ permalink: "/tools/"
 layout: page
 ---
 
-Interactive tools I have built around curves and surfaces.
+Interactive tool(s) I have built around curves and surfaces.
 
 <div class="tool-list" markdown="0">
   <a class="tool-card" href="{{ '/' | relative_url }}">
