@@ -36,8 +36,8 @@ Some of the things that help my existence are in the following pictures.
   const footnotes = [
     "This is a boulder problem I love called 'There is no spoon' in Ticino, Switzerland.",
     "Souvenir of nice times of collaboration with Mingkun Liu.",
-    "Some nice vegetables we planted in my hometown's community garden on a sunny winter.",
-    "Cooking with friends.",
+    "Some vegetables we planted in my hometown's community garden on a sunny winter.",
+    "A beautiful calçotada.",
     "This place."
   ];
   let currentIndex = 0;
