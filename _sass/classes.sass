@@ -49,3 +49,54 @@
     border: none
     margin: 0 1.5em 0 0
     padding: 0
+
+body > header nav:first-of-type
+  background: rgba($accent, .14)
+  border-radius: 999px
+  padding: .25em .3em
+  margin: .4em .3em
+
+body > header nav:first-of-type a
+  margin: 0
+  padding: .35em .95em
+  border-radius: 999px
+  transition: .2s
+
+body > header nav:first-of-type a:hover
+  background: rgba($accent, .55)
+  color: #fff
+  box-shadow: none
+
+body > header nav:first-of-type a[aria-current]
+  background: $accent
+  color: #fff
+
+.tool-list
+  display: grid
+  gap: 1em
+  margin: 1.5em 0
+
+.tool-card
+  display: block
+  color: inherit
+  border: 1px solid rgba($accent, .3)
+  background: rgba($accent, .06)
+  border-radius: 14px
+  padding: 1em 1.2em
+  transition: .2s
+
+.tool-card:hover
+  border-color: $accent
+  background: rgba($accent, .12)
+  transform: translateY(-2px)
+  text-decoration-color: transparent
+
+.tool-card strong
+  display: block
+  color: $link
+  font-size: 1.1em
+  margin-bottom: .25em
+
+.tool-card span
+  display: block
+  opacity: .8
