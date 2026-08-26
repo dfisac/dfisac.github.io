@@ -4,7 +4,7 @@ permalink: "/curve-counting/"
 layout: page
 ---
 
-Let <span style="font-family:monospace">T</span> be a once-punctured torus, and fix <span style="font-family:monospace">a,b</span> a generating set of <span style="font-family:monospace">&pi;<sub>1</sub>(T)</span>. Given any closed curve <span style="font-family:monospace">&gamma;</span> on the once-punctured torus <span style="font-family:monospace">T</span>, written as a cyclic word in <span style="font-family:monospace">a,b,A,B</span> (with <span style="font-family:monospace">A</span>&nbsp;=&nbsp;<span style="font-family:monospace">a<sup>&minus;1</sup></span>, <span style="font-family:monospace">B</span>&nbsp;=&nbsp;<span style="font-family:monospace">b<sup>&minus;1</sup></span>), this tool runs the algorithm of <a href="https://arxiv.org/">Baroni&ndash;Fisac&ndash;Liu</a> to produce the exact counting function
+Let <span style="font-family:monospace">T</span> be a once-punctured torus, and fix <span style="font-family:monospace">a,b</span> a generating set of <span style="font-family:monospace">&pi;<sub>1</sub>(T)</span>. Given any closed curve <span style="font-family:monospace">&gamma;</span> on the once-punctured torus <span style="font-family:monospace">T</span>, written as a cyclic word in <span style="font-family:monospace">a,b,A,B</span> (with <span style="font-family:monospace">A</span>&nbsp;=&nbsp;<span style="font-family:monospace">a<sup>&minus;1</sup></span>, <span style="font-family:monospace">B</span>&nbsp;=&nbsp;<span style="font-family:monospace">b<sup>&minus;1</sup></span>), this tool runs the algorithm of <a href="https://arxiv.org/search/math?searchtype=author&query=Fisac,+D">Baroni&ndash;Fisac&ndash;Liu</a> to produce the exact counting function
 
 <div class="cc-bigmath">
 \[ N_\gamma(L) \;=\; \#\{\alpha \in \mathrm{Mod}(T)\cdot\gamma \;:\; \ell(\alpha)=L\} \]
@@ -570,7 +570,7 @@ def run_brute(word):  return _json.dumps(brute(word))
 </script>
 {% endraw %}
 
-Method and proofs are in <a href="https://arxiv.org/">*Exact curve counting of given word length on the once-punctured torus*</a> (F.&nbsp;Baroni, D.&nbsp;Fisac, M.&nbsp;Liu), where the count has the shape
+Method and proofs are in <a href="https://arxiv.org/search/math?searchtype=author&query=Fisac,+D">*Exact curve counting of given word length on the once-punctured torus*</a> (F.&nbsp;Baroni, D.&nbsp;Fisac, M.&nbsp;Liu), where the count has the shape
 
 <div class="cc-bigmath">
 \[ N_\gamma(L) \;=\; m\!\left(\sum_{i} \varphi_{P_i,Q_i}(L-4K_i) \;+\; C_i(L)\right), \]
