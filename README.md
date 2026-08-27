@@ -39,7 +39,7 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 <span style="font-size: 18px;"> 
 <a href="https://dfisac.github.io/chats"> Curves, Hyperbolicity, And Teichmüller Spaces (CHATS)</a>,
 </span> <br>
-&ensp;&emsp;&emsp;organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html">Yusen Long</a>, a workshop on low-dimensional geometric topology, June 2026.
+&ensp;&emsp;&emsp;organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html">Yusen Long</a>, a workshop on low-dimensional geometric topology, June 2026 at UPEC.
 
 # Invited Talks
  - **Géométrie hyperbolique et surfaces, in honor of Greg McShane** at Université Grenoble Alpes, Sep 2026, Grenoble, France (Future).
