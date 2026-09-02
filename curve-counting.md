@@ -115,6 +115,7 @@ the number of primitive positive solutions of <span style="font-family:monospace
     <code data-w="aabbAAbbAb">a&#178;b&#178;A&#178;b&#178;Ab</code>
   </div>
   <div id="cc-status"><span class="cc-spin"></span>loading the Python runtime&hellip;</div>
+  <button id="cc-anyway" style="display:none;margin-top:10px">Compute anyway (may take a while)</button>
 
   <div id="cc-out">
     <div id="cc-formula"></div>
@@ -428,48 +429,81 @@ def _fmt(coefs, per):
     return ' + '.join(parts) if parts else '0'
 
 def _fit(terms, period, E, min_len, Rmax):
+    # Top-anchored exact fit.  The old version placed the window by period width,
+    # which could slide below L0 (large period) or go too narrow to survive
+    # single-parity support -- that was the real source of the "closed form is
+    # too long" failure, not any actual length limit.  Here the window always
+    # sits at the top (largest L, above L0), widths grow progressively, and each
+    # candidate is checked on an independent validation band so overfits and
+    # below-L0 windows are rejected (the caller then enlarges Rmax).
+    floor = min_len
+    Vspan = 12
     for Pmod in (period, 2 * period, 3 * period):
         ncol = len(terms) + Pmod
-        hi = Rmax; lo = max(min_len + 1, hi - (2 * Pmod + len(terms) + 12), 2)
-        Ls = list(range(lo, hi + 1))
-        if len(Ls) < ncol + 2: continue
-        def row(L):
-            res = [0] * Pmod; res[L % Pmod] = 1
-            return [Pairs(P, Q, L - K) for (P, Q, K) in terms] + res
-        x = _solve([row(L) for L in Ls], [E.get(L, 0) for L in Ls])
-        if x is None or any(v.denominator != 1 for v in x): continue
-        x = [int(v) for v in x]
-        coefs = list(zip(terms, x[:len(terms)])); per = x[len(terms):]
-        Fs = _fmt(coefs, per)
-        if all(_ev(Fs, L) == E.get(L, 0) for L in range(max(min_len + 1, Rmax - 20), Rmax + 1)):
-            return Fs
+        for W in (ncol + 8, 2 * ncol + 12, 3 * ncol + 16, 6 * ncol + 20):
+            lo = Rmax - W + 1
+            vlo = lo - Vspan
+            if vlo <= floor:            # not enough clean data above the low-L region
+                continue
+            def row(L):
+                res = [0] * Pmod; res[L % Pmod] = 1
+                return [Pairs(P, Q, L - K) for (P, Q, K) in terms] + res
+            Ls = list(range(lo, Rmax + 1))
+            x = _solve([row(L) for L in Ls], [E.get(L, 0) for L in Ls])
+            if x is None or any(v.denominator != 1 for v in x):
+                continue
+            x = [int(v) for v in x]
+            coefs = list(zip(terms, x[:len(terms)])); per = x[len(terms):]
+            Fs = _fmt(coefs, per)
+            if all(_ev(Fs, L) == E.get(L, 0) for L in range(vlo, lo)):
+                return Fs
     return None
 
-def series(word):
+# Default calibration ceiling.  The fit grows the calibration length on demand up
+# to this cap instead of erroring; the "compute anyway" button re-runs with a
+# larger ceiling (up to MAX_LCAL).
+HARD_LCAL = 400
+MAX_LCAL = 1200
+
+def series(word, hard_lcal=HARD_LCAL):
     word = _clean(word)
     if not word:
         return {"ok": False, "error": "Empty word (use letters a, b, A, B)."}
+    hard_lcal = max(64, min(int(hard_lcal), MAX_LCAL))
     Lcal = 64
-    seen, trunc = _orbit(word, Lcal)
-    Rmax = Lcal if not trunc else max(len(w) for w in seen) - 8
-    E = {}
-    for w in seen: E[len(w)] = E.get(len(w), 0) + 1
-    min_len = min(len(w) for w in seen)
-    # a non-trivial torsion element fixes a minimal-length representative (Lemma 2.5)
-    _mins = [g for g in seen if len(g) == min_len]
-    torsion = any(_canon(_NI(g)) == g or _canon(_S(g)) == g or _canon(_U(g)) == g for g in _mins)
-    m = 2 if torsion else 4
-    struct = None
-    for r in sorted(seen, key=lambda s: (len(s), s))[:60]:
-        try:
-            struct = _structure(generate_formula(r)); break
-        except Exception:
-            continue
-    if struct is None:
-        return {"ok": False, "error": "could not resolve this curve."}
-    Fs = _fit(struct[0], struct[1], E, min_len, Rmax)
-    if Fs is None:
-        return {"ok": False, "error": "could not fit the closed form (try a shorter curve)."}
+    struct = None; Fs = None
+    while True:
+        seen, trunc = _orbit(word, Lcal)
+        Rmax = Lcal if not trunc else max(len(w) for w in seen) - 8
+        E = {}
+        for w in seen: E[len(w)] = E.get(len(w), 0) + 1
+        min_len = min(len(w) for w in seen)
+        # a non-trivial torsion element fixes a minimal-length representative (Lemma 2.5)
+        _mins = [g for g in seen if len(g) == min_len]
+        torsion = any(_canon(_NI(g)) == g or _canon(_S(g)) == g or _canon(_U(g)) == g for g in _mins)
+        m = 2 if torsion else 4
+        if struct is None:
+            for r in sorted(seen, key=lambda s: (len(s), s))[:60]:
+                try:
+                    struct = _structure(generate_formula(r)); break
+                except Exception:
+                    continue
+            if struct is None:
+                return {"ok": False, "error": "could not resolve this curve."}
+        Fs = _fit(struct[0], struct[1], E, min_len, Rmax)
+        if Fs is not None:
+            break
+        if trunc:
+            return {"ok": False, "error": "this curve's orbit grows too fast to enumerate here."}
+        if Lcal >= hard_lcal:
+            nxt = min(max(hard_lcal * 3, hard_lcal + 400), MAX_LCAL)
+            return {"ok": False,
+                    "error": "this curve needs a longer calibration than the current limit.",
+                    "capped": True, "at": hard_lcal, "next": nxt}
+        # jump toward the size the structure needs, then keep growing if still short
+        ncol = len(struct[0]) + struct[1]
+        target = max(int(Lcal * 1.7) + 20, min_len + 2 * ncol + 30)
+        Lcal = min(target, hard_lcal)
     # L0 = 1 + (last length where the closed form disagrees with the enumeration)
     mism = [L for L in range(1, Rmax + 1) if _ev(Fs, L) != E.get(L, 0)]
     L0 = (max(mism) + 1) if mism else 1
@@ -480,7 +514,7 @@ def series(word):
             "canonical": _canon(word), "min_len": min_len, "asym_c": _asym(Fs),
             "Ls": Ls, "counts": counts}
 
-def run(word): return _json.dumps(series(word))
+def run(word, hard_lcal=HARD_LCAL): return _json.dumps(series(word, hard_lcal))
 </script>
 
 <!-- ============================== driver ================================== -->
@@ -508,19 +542,28 @@ def run(word): return _json.dumps(series(word))
 
   function cumOf(a){ var o=[],r=0; for(var i=0;i<a.length;i++){ r+=a[i]; o.push(r); } return o; }
 
-  async function compute(){
+  async function compute(cap){
     if(!CC.ready) return;
     var word = ($('cc-word').value.match(/[abAB]/g) || []).join('');
     $('cc-word').value = word;
-    if(!word){ status.className='err'; status.textContent='Enter a non-empty word in a, b, A, B.'; return; }
-    $('cc-go').disabled = true; status.className='';
+    var anyway = $('cc-anyway');
+    if(!word){ status.className='err'; status.textContent='Enter a non-empty word in a, b, A, B.'; anyway.style.display='none'; return; }
+    $('cc-go').disabled = true; anyway.style.display='none'; status.className='';
     status.innerHTML = '<span class="cc-spin"></span>running the algorithm&hellip;';
     await new Promise(function(r){ setTimeout(r, 20); });
     try{
       CC.py.globals.set('_W', word);
-      var js = await CC.py.runPythonAsync('run(_W)');
+      CC.py.globals.set('_CAP', (typeof cap === 'number' && cap > 0) ? cap : 400);
+      var js = await CC.py.runPythonAsync('run(_W, _CAP)');
       var d = JSON.parse(js);
-      if(!d.ok){ status.className='err'; status.textContent = d.error; $('cc-out').style.display='none'; return; }
+      if(!d.ok){
+        status.className='err'; status.textContent = d.error; $('cc-out').style.display='none';
+        if(d.capped && d.next > d.at){
+          anyway.style.display='';
+          anyway.onclick = function(){ anyway.style.display='none'; compute(d.next); };
+        }
+        return;
+      }
       CC.last = d;
       render(d);
       status.innerHTML = 'Done.';
