@@ -62,11 +62,5 @@ Some of the things that help my existence are in the following pictures.
 </script>
 
 
-% # Address
-% Laboratoire d'Analyse et de Mathématiques Appliquées, Université Paris-Est Créteil  
-% Office P2 230  
-% 61, avenue Général de Gaulle  
-% 94010 Créteil, France  
-
 # E-mail
 d.fisac2@gmail.com
