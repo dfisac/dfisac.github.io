@@ -46,7 +46,8 @@ My research is on surfaces, from all Riemannian, combinatorial, and hyperbolic p
 &ensp;&emsp;&emsp;organised with <a href="https://perso.math.u-pem.fr/long.yusen/index.html">Yusen Long</a>, a workshop on low-dimensional geometric topology, June 2026 at UPEC.
 
 # Invited Talks
- - **Géométrie hyperbolique et surfaces, in honor of Greg McShane** at Université Grenoble Alpes, Sep 2026, Grenoble, France (Future).
+ - **Recent developments in Teichmüler theory** at the MFO, Oct 2026, Oberwolfach, Germany.
+ - **Géométrie hyperbolique et surfaces, in honor of Greg McShane** at Université Grenoble Alpes, Sep 2026, Grenoble, France.
  - **Curve counting: what's next?** at the Hamilton Mathematics Institute, May 2026, Dublin, Ireland.
  - **Séminaire Géométrie et Topologie** at Institut de Mathématiques de Jussieu, May 2026, Paris, France.
  - **Geometry and Spectra of Riemann Surfaces** (lightning) at EPFL, Apr 2026, Lausanne, Switzerland.
