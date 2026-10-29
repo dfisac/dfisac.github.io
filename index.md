@@ -4,7 +4,7 @@ permalink: "/"
 layout: page
 ---
 
-I am currently on a break:
+I am officially on a break (please contact me either way for any matter):
 <figure style="text-align: center; margin: 20px auto;">
   <img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true"
        alt="Calvin and Hobbes"
