@@ -8,7 +8,7 @@ I am officially on a break (please contact me either way for any matter):
 <figure style="text-align: center; margin: 0px;">
   <img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true"
        alt="Calvin and Hobbes"
-       style="display: block; width: 50%; min-width: 200px; max-width: 360px; margin: 0 ;
+       style="display: block; width: 50%; min-width: 200px; max-width: 360px; margin: 0 auto;
               -webkit-mask-image: radial-gradient(ellipse closest-side, black 65%, transparent 100%);
               mask-image: radial-gradient(ellipse closest-side, black 65%, transparent 100%);">
   <figcaption style="font-size: 0.8em; font-style: italic; opacity: 0.7; margin-top: 0px;">
