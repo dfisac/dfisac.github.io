@@ -5,7 +5,7 @@ layout: page
 ---
 
 I am officially on a break (please contact me either way for any matter):
-<figure style="text-align: center; margin: 10px auto;">
+<figure style="text-align: center; margin: 0px;">
   <img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true"
        alt="Calvin and Hobbes"
        style="display: block; width: 50%; min-width: 200px; max-width: 360px; margin: 0 auto;
