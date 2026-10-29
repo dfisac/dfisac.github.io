@@ -5,7 +5,9 @@ layout: page
 ---
 
 I am currently on a break:
-<img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true" alt="AI" style="width: 20%; ">
+<img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true"
+     alt="AI"
+     style="display: block; width: 35%; min-width: 200px; max-width: 360px; margin: 20px auto; border-radius: 16px; box-shadow: 0 10px 30px -12px rgba(0,0,0,.35);">
 I spent the last year as a postdoc at Laboratoire d'Analyse et de Mathématiques Appliquées (<a href="https://lama-umr8050.fr/">LAMA</a>) mentored by <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a>. Before that, I was shortly a postdoc in the following <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2/">group</a> at Universitat Autònoma de Barcelona.
 
 In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://homeweb.unifr.ch/parlierh/pub/">Hugo Parlier</a> at the University of Luxembourg. Before, I completed my Pure Mathematics MSc at Imperial College London under the supervision of Marie-Amélie Lawn.
