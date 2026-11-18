@@ -1,75 +1,44 @@
-
 ---
 title: "Home"
 permalink: "/"
 layout: page
-hide_title: true
 ---
 
+I am a postdoc at ETH Zurich in <a href="https://yilwang.weebly.com/">Yilin Wang</a>'s group. 
 
-<div class="home-intro">
+Before I was a postdoc at Université Paris-Est Créteil mentored by <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a> and shortly a postdoc in this <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2/">group</a> at Universitat Autònoma de Barcelona.
 
-  <div class="home-text">
+In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.cat/~fbalacheff/"> Florent Balacheff</a> at Universitat Autònoma de Barcelona and <a href="https://homeweb.unifr.ch/parlierh/pub/">Hugo Parlier</a> at the University of Luxembourg. Before, I completed my Pure Mathematics MSc at Imperial College London under the supervision of Marie-Amélie Lawn.
 
-    <p>
-      I am a postdoc at ETH Zürich in the group of <a href="https://yilwang.weebly.com/">Yilin Wang</a>.
-    </p>
+Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
-    <p>
-      Before, I was a postdoc at Université Paris-Est Créteil,
-      mentored by
-      <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a>,
-      and shortly a postdoc in this
-      <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2/">group</a>
-      at Universitat Autònoma de Barcelona.
-    </p>
-
-    <p>
-      In 2025, I obtained my PhD under the co-supervision of
-      <a href="https://mat.uab.cat/~fbalacheff/">Florent Balacheff</a>
-      at Universitat Autònoma de Barcelona and
-      <a href="https://homeweb.unifr.ch/parlierh/pub/">Hugo Parlier</a>
-      at the University of Luxembourg.
-    </p>
-
-    <p>
-      Before, I completed my MSc in Pure Mathematics at
-      Imperial College London under the supervision of
-      Marie-Amélie Lawn.
-    </p>
-
-    <p>
-      Here is my <a href="/CV.pdf">CV</a>.
-    </p>
-
-  </div>
-
-  <div class="home-photo">
-    <img src="/jopeto.jpg" alt="David Fisac">
-  </div>
-
-</div>
-
+<figure style="text-align: center; margin: 0px;">
+  <img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true"
+       alt="Calvin and Hobbes"
+       style="display: block; width: 50%; min-width: 200px; max-width: 360px; margin: 0 auto;
+              -webkit-mask-image: radial-gradient(ellipse closest-side, black 65%, transparent 100%);
+              mask-image: radial-gradient(ellipse closest-side, black 65%, transparent 100%);">
+  <figcaption style="font-size: 0.8em; font-style: italic; opacity: 0.7; margin-top: 0px;">
+    Calvin and Hobbes, Bill Watterson, 1992.
+  </figcaption>
+</figure>
 
 Some of the things that help my existence are in the following pictures.
 
 <div id="image-slider" style="max-width: 1200px; position: relative; overflow: hidden; margin: 24px auto; border-radius: 16px; box-shadow: 0 10px 30px -12px rgba(0,0,0,.35);">
-
   <div id="slider-container" style="display: flex; transition: transform 0.5s ease;">
-    <img src="/guix1.jpg" alt="Image 1" style="width: 100%; flex-shrink: 0;">
-    <img src="/guix2.jpg" alt="Image 2" style="width: 100%; flex-shrink: 0;">
-    <img src="/guix3.jpg" alt="Image 3" style="width: 100%; flex-shrink: 0;">
-    <img src="/guix4.jpg" alt="Image 4" style="width: 100%; flex-shrink: 0;">
-    <img src="/guix5.jpg" alt="Image 5" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix1.jpg?raw=true" alt="Image 1" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix2.jpg?raw=true" alt="Image 2" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix3.jpg?raw=true" alt="Image 3" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix4.jpg?raw=true" alt="Image 4" style="width: 100%; flex-shrink: 0;">
+    <img src="https://github.com/dfisac/dfisac.github.io/blob/master/guix5.jpg?raw=true" alt="Image 5" style="width: 100%; flex-shrink: 0;">
   </div>
-
   <button id="prev-btn" style="position:absolute; top:50%; left:14px; transform:translateY(-50%); width:42px; height:42px; border-radius:999px; background:rgba(255,255,255,.82); backdrop-filter:blur(6px); border:none; cursor:pointer; font-size:18px; color:#0c8ea3; box-shadow:0 2px 10px rgba(0,0,0,.18);">❮</button>
-
   <button id="next-btn" style="position:absolute; top:50%; right:14px; transform:translateY(-50%); width:42px; height:42px; border-radius:999px; background:rgba(255,255,255,.82); backdrop-filter:blur(6px); border:none; cursor:pointer; font-size:18px; color:#0c8ea3; box-shadow:0 2px 10px rgba(0,0,0,.18);">❯</button>
-
 </div>
 
 <div id="image-footnote" style="text-align: center; margin-top: 10px; font-style: italic;">
+  Footnote for Image 1
 </div>
 
 <script>
@@ -77,7 +46,6 @@ Some of the things that help my existence are in the following pictures.
   const footnote = document.getElementById('image-footnote');
   const images = sliderContainer.children;
   const totalImages = images.length;
-
   const footnotes = [
     "This is a boulder problem I love called 'There is no spoon' in Ticino, Switzerland.",
     "Souvenir of nice times of collaboration with Mingkun Liu.",
@@ -85,7 +53,6 @@ Some of the things that help my existence are in the following pictures.
     "A beautiful calçotada.",
     "This place."
   ];
-
   let currentIndex = 0;
 
   function updateSlider() {
@@ -103,9 +70,10 @@ Some of the things that help my existence are in the following pictures.
     updateSlider();
   });
 
+  // Initialize the slider and footnote on page load
   updateSlider();
 </script>
 
-# E-mail
 
+# E-mail
 d.fisac2@gmail.com
