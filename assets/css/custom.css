@@ -1,0 +1,103 @@
+
+/* ========================================
+   GENERAL TYPOGRAPHY
+   ======================================== */
+
+.site-title {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-size: 42px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.02em;
+  color: #183b59 !important;
+  text-decoration: none !important;
+}
+
+/* ========================================
+   LIGHT BLUE HEADER
+   ======================================== */
+
+.site-header {
+  background-color: #dceeff !important;
+  padding: 22px 32px !important;
+  border-radius: 0 0 10px 10px;
+}
+
+.site-header h1 {
+  margin-bottom: 12px;
+}
+
+.site-header nav {
+  margin-top: 8px;
+}
+
+.site-header nav a {
+  color: #34536b !important;
+}
+
+.site-header nav a:hover {
+  color: #102f4a !important;
+}
+
+/* ========================================
+   HOME PAGE INTRODUCTION
+   ======================================== */
+
+.home-intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  margin: 25px 0 35px;
+}
+
+.home-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.home-photo {
+  flex: 0 0 260px;
+  width: 260px;
+}
+
+.home-photo img {
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+}
+
+/* ========================================
+   MOBILE LAYOUT
+   ======================================== */
+
+@media (max-width: 650px) {
+  .site-header {
+    padding: 18px 16px !important;
+  }
+
+  .site-title {
+    font-size: 34px !important;
+  }
+
+  .home-intro {
+    flex-direction: column-reverse;
+    gap: 20px;
+    align-items: center;
+  }
+
+  .home-photo {
+    flex: none;
+    width: 220px;
+  }
+
+  .home-photo img {
+    height: 250px;
+  }
+
+  .home-text {
+    width: 100%;
+  }
+}
