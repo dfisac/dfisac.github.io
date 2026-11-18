@@ -4,7 +4,7 @@ permalink: "/"
 layout: page
 ---
 
-I am starting as a postdoc at ETH Zurich with <a href="https://yilwang.weebly.com/">Yilin Wang</a>. 
+I am starting as a postdoc at ETH Zürich with <a href="https://yilwang.weebly.com/">Yilin Wang</a>. 
 
 Before I was a postdoc at Université Paris-Est Créteil mentored by <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a> and shortly a postdoc in this <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2/">group</a> at Universitat Autònoma de Barcelona.
 
