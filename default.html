@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang }}">
+
+{% include head.html %}
+
+<header class="hover smooth site-header">
+  <div class="header-inner">
+    <div class="site-title">{{ site.title | escape }}</div>
+    <div class="header-menus">
+      {% include menu.html menu=site.navigation %}
+      {% include menu.html menu=site.external %}
+    </div>
+  </div>
+</header>
+
+{{ content }}
+
+{%- if site.footer -%}
+<footer class="hover">
+  <div>{{ site.description }}</div>
+  {% include menu.html menu=site.footer %}
+</footer>
+{%- endif -%}
+
+</html>

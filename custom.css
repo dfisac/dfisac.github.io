@@ -1,0 +1,125 @@
+/* ========================================
+   HEADER
+   Light-blue bar: name on the left, menu on the right.
+   The pill around the current page is styled in _sass/classes.sass.
+   ======================================== */
+
+body > header.site-header {
+  display: block;
+  background: light-dark(#dceeff, #182635);
+  color: light-dark(#34536b, #b9cde0);
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .5em 1.5em;
+}
+
+.site-title {
+  font-family: 'Cormorant Garamond', Garamond, 'Times New Roman', serif;
+  font-size: 2.4em;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: .01em;
+  color: light-dark(#183b59, #e3effa);
+  white-space: nowrap;
+}
+
+.header-menus {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .3em 1em;
+}
+
+.header-menus nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0;
+}
+
+.header-menus nav a {
+  margin: 0;
+}
+
+
+/* ========================================
+   HOME: INTRODUCTION WITH PHOTO
+   ======================================== */
+
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+  margin-bottom: 1em;
+}
+
+.home-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.home-text p:first-child {
+  margin-top: 0;
+}
+
+.home-text p:last-child {
+  margin-bottom: 0;
+}
+
+img.home-photo {
+  flex: 0 0 auto;
+  width: 180px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 20%;
+  margin: .3em 0 0;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px -14px rgba(0, 0, 0, .45);
+}
+
+
+/* ========================================
+   SMALL SCREENS
+   ======================================== */
+
+@media (max-width: 640px) {
+  .site-title {
+    font-size: 2.1em;
+  }
+
+  /* let all menu items (and the mail icon) flow together on one line or two */
+  .header-menus {
+    gap: .25em 0;
+  }
+
+  .header-menus nav {
+    display: contents;
+  }
+
+  body > header nav:first-of-type a {
+    padding: .32em .8em;
+  }
+
+  .header-menus nav:last-of-type a {
+    padding: .32em .8em;
+  }
+
+  .home-intro {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2em;
+  }
+
+  img.home-photo {
+    order: -1;
+    width: 170px;
+    margin: 0;
+  }
+}

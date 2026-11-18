@@ -1,0 +1,116 @@
+.nowrap
+  flex-wrap: nowrap
+
+.smooth
+  -webkit-font-smoothing: antialiased
+
+.full
+  font-size: 1.5em
+  width: 100%
+  margin: .1em 0 .7em
+
+.hover nav:has(svg) a:hover
+  color: gray(100)
+  box-shadow: none
+
+.button a, .dark a
+  font-weight: inherit
+  transition: .2s
+
+.button a
+  background: $accent
+  color: #fff
+  padding: .3em 1.1em
+  border-radius: 999px
+  &:hover
+    background: light-dark(#0a7d8f, #0a7d8f)
+    color: #fff
+    text-decoration-color: transparent
+    transform: translateY(-1px)
+
+.dark a
+  background: light-dark(gray(22), gray(0))
+  margin: 0
+  padding: .4em .8em
+  border-radius: 8px
+  &:hover
+    background: light(100)
+    color: light(0)
+    box-shadow: none
+
+.katex-display
+  overflow: auto hidden
+
+.rouge-table, .gist
+  pre, tr, td
+    background: inherit!important
+    font-size: inherit
+    color: inherit
+    border: none
+    margin: 0 1.5em 0 0
+    padding: 0
+
+body > header nav:first-of-type
+  margin: 0
+  padding: 0
+
+body > header nav:first-of-type a
+  margin: 0
+  padding: .38em 1em
+  border-radius: 999px
+  font-weight: normal
+  color: inherit
+  transition: .2s
+
+body > header nav:first-of-type a:hover
+  background: rgba($accent, .14)
+  color: light-dark(#102f4a, #fff)
+  box-shadow: none
+
+body > header nav:first-of-type a[aria-current]
+  background: $accent
+  color: #fff
+
+.tool-list
+  display: grid
+  gap: 1em
+  margin: 1.5em 0
+
+.tool-card
+  display: block
+  color: inherit
+  border: 1px solid rgba($accent, .3)
+  background: rgba($accent, .06)
+  border-radius: 14px
+  padding: 1em 1.2em
+  transition: .2s
+
+.tool-card:hover
+  border-color: $accent
+  background: rgba($accent, .12)
+  transform: translateY(-2px)
+  text-decoration-color: transparent
+
+.tool-card strong
+  display: block
+  color: $link
+  font-size: 1.1em
+  margin-bottom: .25em
+
+.tool-card span
+  display: block
+  opacity: .8
+
+article header h1
+  opacity: .88
+  padding-bottom: .12em
+  border-bottom: 2px solid
+  border-image: linear-gradient(90deg, rgba($accent, .75), rgba($accent, .06)) 1
+
+article > h1, article > h2
+  font-size: 1.45em
+  background: linear-gradient(95deg, light-dark(rgba(#0c8ea3, .62), rgba(#22d3ee, .8)), light-dark(rgba(#0c8ea3, .22), rgba(#22d3ee, .48)))
+  -webkit-background-clip: text
+  background-clip: text
+  -webkit-text-fill-color: transparent
+  color: transparent
