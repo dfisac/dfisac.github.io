@@ -16,9 +16,6 @@ layout: page
 
 Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
-# E-mail
-d.fisac2@gmail.com
-
 <figure style="text-align: center; margin: 0px;">
   <img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true"
        alt="Calvin and Hobbes"
@@ -80,3 +77,6 @@ Some of the things that help my existence are in the following pictures.
   // Initialize the slider and footnote on page load
   updateSlider();
 </script>
+
+# E-mail
+d.fisac2@gmail.com
