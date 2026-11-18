@@ -1,7 +1,11 @@
+
 ---
 layout: default
 ---
+
 <article>
-  {% include meta.html post=page %}
+  {% unless page.hide_title %}
+    {% include meta.html post=page %}
+  {% endunless %}
   {{ content }}
 </article>
