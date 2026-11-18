@@ -1,4 +1,3 @@
-
 ---
 title: "Organization and Talks"
 permalink: "/organization-talks/"
