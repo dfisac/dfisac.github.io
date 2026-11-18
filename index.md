@@ -6,37 +6,41 @@ layout: page
 hide_title: true
 ---
 
+
 <div class="home-intro">
 
   <div class="home-text">
 
-    I am a postdoc at ETH Zürich with
-    <a href="https://yilwang.weebly.com/">Yilin Wang</a>.
+    <p>
+      I am a postdoc at ETH Zürich in the group of <a href="https://yilwang.weebly.com/">Yilin Wang</a>.
+    </p>
 
-    <br><br>
+    <p>
+      Before, I was a postdoc at Université Paris-Est Créteil,
+      mentored by
+      <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a>,
+      and shortly a postdoc in this
+      <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2/">group</a>
+      at Universitat Autònoma de Barcelona.
+    </p>
 
-    Before, I was a postdoc at Université Paris-Est Créteil,
-    mentored by
-    <a href="https://fanoni.perso.math.cnrs.fr/">Federica Fanoni</a>,
-    and shortly a postdoc in this
-    <a href="https://portalrecerca.uab.cat/en/projects/estructuras-y-desigualdades-geometricas-universales-2/">group</a>
-    at Universitat Autònoma de Barcelona.
+    <p>
+      In 2025, I obtained my PhD under the co-supervision of
+      <a href="https://mat.uab.cat/~fbalacheff/">Florent Balacheff</a>
+      at Universitat Autònoma de Barcelona and
+      <a href="https://homeweb.unifr.ch/parlierh/pub/">Hugo Parlier</a>
+      at the University of Luxembourg.
+    </p>
 
-    <br><br>
+    <p>
+      Before, I completed my MSc in Pure Mathematics at
+      Imperial College London under the supervision of
+      Marie-Amélie Lawn.
+    </p>
 
-    In 2025, I obtained my PhD under the co-supervision of
-    <a href="https://mat.uab.cat/~fbalacheff/">Florent Balacheff</a>
-    at Universitat Autònoma de Barcelona and
-    <a href="https://homeweb.unifr.ch/parlierh/pub/">Hugo Parlier</a>
-    at the University of Luxembourg.
-
-    Before, I completed my MSc in Pure Mathematics at
-    Imperial College London under the supervision of
-    Marie-Amélie Lawn.
-
-    <br><br>
-
-    Here is my <a href="/CV.pdf">CV</a>.
+    <p>
+      Here is my <a href="/CV.pdf">CV</a>.
+    </p>
 
   </div>
 
@@ -45,6 +49,7 @@ hide_title: true
   </div>
 
 </div>
+
 
 Some of the things that help my existence are in the following pictures.
 
