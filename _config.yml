@@ -1,4 +1,11 @@
-title: "David Fisac - Personal Site"
+.site-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: inherit;
+}
 author: "David Fisac"
 description: "Personal webpage"
 permalink: /:title/
