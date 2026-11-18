@@ -5,14 +5,18 @@
 {% include head.html %}
 
 <header class="site-header hover smooth">
-  {% unless site.show_minimal and site.navigation and site.external %}
-    <h1 {% if site.navigation and site.external %}class="full"{% endif %}>
+  <div class="header-inner">
+
+    <h1>
       <span class="site-title">{{ site.title | escape }}</span>
     </h1>
-  {% endunless %}
 
-  {% include menu.html menu=site.navigation %}
-  {% include menu.html menu=site.external %}
+    <div class="header-menus">
+      {% include menu.html menu=site.navigation %}
+      {% include menu.html menu=site.external %}
+    </div>
+
+  </div>
 </header>
 
 {{ content }}
