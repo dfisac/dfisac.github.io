@@ -3,12 +3,7 @@
 title: "Home"
 permalink: "/"
 layout: page
-hide_title: true
 ---
-
-<div class="home-intro">
-
-  <div class="home-text">
 
     I am a postdoc at ETH Zürich with
     <a href="https://yilwang.weebly.com/">Yilin Wang</a>.
@@ -38,13 +33,13 @@ hide_title: true
 
     Here is my <a href="/CV.pdf">CV</a>.
 
-  </div>
+
 
   <div class="home-photo">
     <img src="/jopeto.jpg" alt="David Fisac">
   </div>
 
-</div>
+
 
 Some of the things that help my existence are in the following pictures.
 
