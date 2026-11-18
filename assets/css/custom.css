@@ -65,21 +65,26 @@
    HOME INTRODUCTION AND PHOTO
    ======================================== */
 
+
 .home-intro {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 150px;
   align-items: start;
   gap: 30px;
-  margin: 20px 0 25px;
+  margin: 20px 0;
 }
 
 .home-text {
   min-width: 0;
 }
 
+.home-text p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
 .home-photo {
   width: 150px;
-  max-width: 100%;
 }
 
 .home-photo img {
@@ -91,6 +96,7 @@
   border-radius: 8px;
   margin: 0;
 }
+
 
 /* ========================================
    MOBILE
