@@ -12,6 +12,17 @@ In 2025, I obtained my PhD under the co-supervision of <a href="https://mat.uab.
 
 Here is my <a href="/CV.pdf" class="image fit">CV</a>.
 
+<figure style="text-align: center; margin: 0px;">
+  <img src="https://github.com/dfisac/dfisac.github.io/blob/master/ohai.jpg?raw=true"
+       alt="Calvin and Hobbes"
+       style="display: block; width: 50%; min-width: 200px; max-width: 360px; margin: 0 auto;
+              -webkit-mask-image: radial-gradient(ellipse closest-side, black 65%, transparent 100%);
+              mask-image: radial-gradient(ellipse closest-side, black 65%, transparent 100%);">
+  <figcaption style="font-size: 0.8em; font-style: italic; opacity: 0.7; margin-top: 0px;">
+    Calvin and Hobbes, Bill Watterson, 1992.
+  </figcaption>
+</figure>
+
 Some of the things that help my existence are in the following pictures.
 
 <div id="image-slider" style="max-width: 1200px; position: relative; overflow: hidden; margin: 24px auto; border-radius: 16px; box-shadow: 0 10px 30px -12px rgba(0,0,0,.35);">
